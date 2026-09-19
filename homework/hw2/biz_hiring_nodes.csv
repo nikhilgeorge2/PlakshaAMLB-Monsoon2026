@@ -1,0 +1,113 @@
+institution,prestige_score,usnews_rank,region
+Stanford University,1.19,1.0,West
+MIT,2.28,3.0,Northeast
+Harvard University,4.39,2.0,Northeast
+UC Berkeley,6.16,7.0,West
+University of Rochester,6.21,45.0,Northeast
+University of Chicago,6.27,5.0,Midwest
+Cornell University,8.51,16.0,Northeast
+Northwestern University,9.23,5.0,Midwest
+University of Michigan,10.02,14.0,Midwest
+Columbia University,10.74,9.0,Northeast
+Yale University,10.79,10.0,Northeast
+University of Pennsylvania,11.72,3.0,Northeast
+Carnegie Mellon University,11.99,18.0,Northeast
+"University of Wisconsin, Madison",12.91,28.0,Midwest
+UCLA,13.96,14.0,West
+New York University,16.62,10.0,Northeast
+"University of Minnesota, Minneapolis",18.8,21.0,Midwest
+"University of Illinois, Urbana Champaign",19.2,37.0,Midwest
+Duke University,20.3,12.0,South
+Purdue University,20.54,49.0,Midwest
+Ohio State University,21.17,26.0,Midwest
+University of Iowa,22.77,40.0,Midwest
+"University of North Carolina, Chapel Hill",25.09,19.0,South
+"Washington University, St. Louis",26.07,20.0,Midwest
+University of Florida,26.96,47.0,South
+"University of Texas, Austin",27.03,17.0,South
+University of Pittsburgh,27.55,85.0,Northeast
+Pennsylvania State University,28.06,40.0,Northeast
+University of Washington,29.24,37.0,West
+"University of Maryland, College Park",29.5,45.0,South
+Indiana University,34.54,23.0,Midwest
+Michigan State University,35.24,49.0,Midwest
+Georgia Tech,37.28,28.0,South
+"University of Colorado, Boulder",37.77,69.0,West
+UC Irvine,38.7,40.0,West
+University of Arizona,39.48,63.0,West
+University of Utah,39.73,80.0,West
+University of Oregon,40.37,91.0,West
+University of Southern California,40.95,21.0,West
+"State University of New York, Buffalo",42.51,75.0,Northeast
+"University of Texas, Dallas",44.2,40.0,South
+University of Virginia,46.53,13.0,South
+Boston University,47.39,34.0,Northeast
+"University of Massachusetts, Amherst",47.5,60.0,Northeast
+Texas A&M,47.53,32.0,South
+Emory University,47.68,23.0,South
+Case Western Reserve University,47.95,80.0,Midwest
+UC Davis,48.53,28.0,West
+University of Georgia,49.18,57.0,South
+Vanderbilt University,49.98,28.0,South
+Syracuse University,50.61,69.0,Northeast
+Claremont Graduate University,51.0,63.0,West
+Arizona State University,51.57,27.0,West
+University of South Carolina,52.71,54.0,South
+Virginia Tech,53.89,73.0,South
+Florida State University,54.57,94.0,South
+University of Oklahoma,55.75,91.0,South
+Tulane University,57.24,40.0,South
+University of Connecticut,58.41,69.0,Northeast
+Boston College,59.23,34.0,Northeast
+University of Cincinnati,61.05,75.0,Midwest
+University of Houston,61.07,94.0,South
+Rutgers University,63.67,57.0,Northeast
+"University of Kansas, Lawrence",63.84,105.0,Midwest
+Louisiana State University,64.13,89.0,South
+"University of Arkansas, Fayetteville",64.97,51.0,South
+"University of Tennessee, Knoxville",68.62,60.0,South
+Dartmouth College,69.32,7.0,Northeast
+University of Kentucky,69.52,102.0,South
+Rice University,69.66,34.0,South
+Southern Methodist University,70.96,57.0,South
+Temple University,73.39,63.0,Northeast
+George Washington University,74.3,52.0,South
+"University of Alabama, Tuscaloosa",76.24,63.0,South
+Oklahoma State University,76.35,97.0,South
+"State University of New York, Binghamton",76.48,107.0,Northeast
+Iowa State University,79.43,69.0,Midwest
+CUNY Baruch College,81.26,85.0,Northeast
+"University of Hawaii, Manoa",81.79,107.0,West
+University of Mississippi,81.93,102.0,South
+"University of Missouri, St. Louis",82.1,,Midwest
+Georgetown University,83.14,25.0,South
+Drexel University,83.61,107.0,Northeast
+Auburn University,83.7,63.0,South
+University of Notre Dame,84.5,37.0,Midwest
+North Carolina State University,86.03,83.0,South
+University of Miami,86.87,85.0,South
+Saint Louis University,87.94,94.0,Midwest
+Worcester Polytechnic Institute,89.07,85.0,Northeast
+College of William and Mary,89.53,83.0,South
+Clarkson University,90.7,101.0,Northeast
+Brigham Young University,91.79,32.0,West
+Fordham University,92.8,97.0,Northeast
+Santa Clara University,94.16,75.0,West
+Portland State University,95.0,107.0,West
+Rollins College,95.11,107.0,South
+Northeastern University,96.16,56.0,Northeast
+"Miami University, Ohio",96.27,97.0,Midwest
+Bentley University,96.41,73.0,Northeast
+Howard University,96.56,91.0,South
+Rochester Institute of Technology,97.3,63.0,Northeast
+Texas Christian University,97.9,80.0,South
+Abilene Christian University,98.66,107.0,South
+Babson College,99.06,52.0,Northeast
+Pepperdine University,99.38,75.0,West
+University of Denver,99.54,102.0,West
+Wake Forest University,100.06,47.0,South
+Thunderbird School of Global Management,101.19,75.0,West
+Pace University,101.48,97.0,Northeast
+Baylor University,102.03,60.0,South
+DePaul University,103.77,89.0,Midwest
+Hofstra University,104.9,105.0,Northeast

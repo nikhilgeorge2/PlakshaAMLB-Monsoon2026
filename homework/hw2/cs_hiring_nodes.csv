@@ -1,0 +1,206 @@
+institution,prestige_score,usnews_rank,region
+Stanford University,2.23,1.0,West
+UC Berkeley,2.31,1.0,West
+MIT,3.52,1.0,Northeast
+California Institute of Technology,5.24,11.0,West
+Harvard University,6.12,17.0,Northeast
+Cornell University,8.29,5.0,Northeast
+Carnegie Mellon University,9.28,1.0,Northeast
+Princeton University,9.32,8.0,Northeast
+Yale University,9.98,20.0,Northeast
+University of Washington,11.06,7.0,West
+"University of Illinois, Urbana Champaign",13.43,5.0,Midwest
+"University of Wisconsin, Madison",14.12,11.0,Midwest
+University of Pennsylvania,15.31,17.0,Northeast
+Rice University,16.44,20.0,South
+UCLA,17.82,14.0,West
+New York University,18.23,28.0,Northeast
+University of Chicago,18.82,35.0,Midwest
+"University of Texas, Austin",19.44,8.0,South
+Brown University,21.92,20.0,Northeast
+Columbia University,22.53,17.0,Northeast
+University of Toronto,24.79,,Canada
+University of Rochester,25.64,47.0,Northeast
+University of Southern California,26.17,20.0,West
+Johns Hopkins University,26.3,28.0,South
+"University of Massachusetts, Amherst",26.95,20.0,Northeast
+UC San Diego,27.93,14.0,West
+"University of Maryland, College Park",28.65,14.0,South
+University of Michigan,29.37,13.0,Midwest
+"University of North Carolina, Chapel Hill",29.55,20.0,South
+Duke University,30.5,27.0,South
+"State University of New York, Stony Brook",36.01,44.0,Northeast
+UC Irvine,37.36,28.0,West
+Dartmouth College,37.9,44.0,Northeast
+University of Virginia,38.11,28.0,South
+Purdue University,38.27,20.0,Midwest
+"University of Minnesota, Minneapolis",38.94,35.0,Midwest
+Georgia Tech,39.69,10.0,South
+Rutgers University,40.46,28.0,Northeast
+University of Arizona,40.57,47.0,West
+Pennsylvania State University,41.22,28.0,Northeast
+Ohio State University,42.17,28.0,Midwest
+Northwestern University,44.47,35.0,Midwest
+"Washington University, St. Louis",46.4,39.0,Midwest
+University of Pittsburgh,46.81,53.0,Northeast
+Boston University,51.73,47.0,Northeast
+University of British Columbia,51.75,,Canada
+University of Oregon,54.86,63.0,West
+Syracuse University,56.74,63.0,Northeast
+UC Santa Barbara,56.76,35.0,West
+University of Utah,59.1,39.0,West
+UC Davis,61.39,39.0,West
+Texas A&M,63.14,47.0,South
+University of Houston,64.97,110.0,South
+Michigan State University,66.24,58.0,Midwest
+University of Waterloo,67.81,,Canada
+"University of Colorado, Boulder",68.17,39.0,West
+McGill University,69.84,,Canada
+CUNY Graduate Center,70.04,79.0,Northeast
+Case Western Reserve University,70.82,63.0,Midwest
+UC Riverside,71.14,53.0,West
+"University of Kansas, Lawrence",74.4,79.0,Midwest
+Florida State University,74.98,79.0,South
+College of William and Mary,75.2,79.0,South
+Lehigh University,76.47,99.0,Northeast
+University of Montreal,78.54,,Canada
+Simon Fraser University,78.97,,Canada
+"University of Illinois, Chicago",79.33,58.0,Midwest
+University of Cincinnati,79.33,99.0,Midwest
+UC Santa Cruz,79.49,53.0,West
+Rensselaer Polytechnic Institute,79.68,47.0,Northeast
+Southern Methodist University,80.22,110.0,South
+University of Central Florida,81.51,91.0,South
+University of New Mexico,81.65,79.0,West
+North Carolina State University,81.9,47.0,South
+"State University of New York, Buffalo",82.16,61.0,Northeast
+Stevens Institute of Technology,82.4,99.0,Northeast
+"Washington State University, Pullman",83.35,79.0,West
+McMaster University,84.01,,Canada
+Brandeis University,84.55,72.0,Northeast
+University of Alberta,86.24,,Canada
+George Washington University,87.19,79.0,South
+Polytechnic Institute of NYU,87.42,72.0,Northeast
+University of Iowa,87.49,63.0,Midwest
+University of Delaware,87.66,72.0,South
+Iowa State University,92.45,63.0,Midwest
+Vanderbilt University,92.5,58.0,South
+University of Florida,94.94,39.0,South
+George Mason University,97.34,63.0,South
+University of Notre Dame,98.8,63.0,Midwest
+Wayne State University,99.58,110.0,Midwest
+University of Calgary,100.27,,Canada
+"University of Louisiana, Lafayette",100.62,127.0,South
+University of Western Ontario,100.9,,Canada
+Carleton University,101.73,,Canada
+Queens University,101.86,,Canada
+"University of Wisconsin, Milwaukee",102.07,110.0,Midwest
+Louisiana State University,102.17,99.0,South
+"University of Texas, Arlington",106.62,99.0,South
+University of Ottawa,107.42,,Canada
+University of Connecticut,108.32,72.0,Northeast
+Oregon Health and Science University,108.71,79.0,West
+Arizona State University,108.72,53.0,West
+Kansas State University,109.31,99.0,Midwest
+"State University of New York, Albany",110.18,91.0,Northeast
+University of South Florida,111.94,99.0,South
+Virginia Tech,112.4,44.0,South
+Portland State University,113.61,,West
+University of South Carolina,113.75,99.0,South
+Missouri University of Science and Technology,113.87,121.0,Midwest
+University of Oklahoma,116.24,110.0,South
+Indiana University,116.75,53.0,Midwest
+Illinois Institute of Technology,117.72,110.0,Midwest
+"University of Tennessee, Knoxville",119.03,63.0,South
+University of Miami,120.24,,South
+New Jersey Institute of Technology,120.85,91.0,Northeast
+University of Kentucky,123.11,91.0,South
+"State University of New York, Binghamton",124.35,110.0,Northeast
+Colorado State University,124.6,79.0,West
+"University of Colorado, Denver",125.51,,West
+"University of Texas, Dallas",125.87,79.0,South
+University of Rhode Island,126.0,,Northeast
+Toyota Technological Institute at Chicago,126.16,,Midwest
+Auburn University,126.69,91.0,South
+Drexel University,127.37,99.0,Northeast
+Oregon State University,127.72,63.0,West
+University of Manitoba,129.12,,Canada
+University of Regina,130.03,,Canada
+"University of Nebraska, Lincoln",130.66,79.0,Midwest
+University of Saskatchewan,130.86,,Canada
+Florida Atlantic University,131.2,127.0,South
+"University of Texas, San Antonio",133.22,,South
+University of Denver,133.81,,West
+"University of Maryland, Baltimore County",134.13,72.0,South
+Oakland University (Michigan),134.48,127.0,Midwest
+University of Maine,135.62,127.0,Northeast
+Clarkson University,137.31,,Northeast
+New Mexico State University,137.49,121.0,West
+University of Memphis,137.66,127.0,South
+University of Victoria,137.87,,Canada
+"Concordia University, Montreal",138.05,,Canada
+"University of Missouri, Kansas City",138.72,127.0,Midwest
+"University of Missouri, Columbia",139.45,110.0,Midwest
+Dalhousie University,139.97,,Canada
+Virginia Commonwealth University,139.99,,South
+Worcester Polytechnic Institute,140.75,91.0,Northeast
+Old Dominion University,142.05,127.0,South
+"University of Texas, El Paso",142.2,,South
+Naval Postgraduate School,142.23,72.0,West
+"University of Massachusetts, Boston",143.2,,Northeast
+University of Wyoming,144.8,,West
+York University,145.24,,Canada
+University of Georgia,145.66,91.0,South
+Mississippi State University,146.44,121.0,South
+Tufts University,146.5,72.0,Northeast
+Florida International University,146.92,127.0,South
+"Southern Illinois University, Carbondale",148.23,,Midwest
+Ohio University,150.08,,Midwest
+Claremont Graduate University,150.95,121.0,West
+Catholic University of America,151.04,,South
+Clemson University,151.45,79.0,South
+"University of Massachusetts, Lowell",151.46,127.0,Northeast
+Oklahoma State University,151.76,127.0,South
+"University of North Carolina, Charlotte",152.67,99.0,South
+"University of Alabama, Birmingham",153.44,127.0,South
+Santa Clara University,153.65,,West
+"University of Hawaii, Manoa",154.88,127.0,West
+Temple University,156.16,110.0,Northeast
+University of Toledo,156.35,,Midwest
+Michigan Technological University,156.45,127.0,Midwest
+University of New Hampshire,156.98,,Northeast
+Montana State University,157.66,,West
+University of New Brunswick,158.12,,Canada
+Wright State University,159.2,121.0,Midwest
+Western Michigan University,163.13,,Midwest
+Northeastern University,163.79,61.0,Northeast
+"University of Alabama, Huntsville",163.89,127.0,South
+"University of Idaho, Moscow",164.22,127.0,West
+Texas Tech University,164.46,121.0,South
+University of Tulsa,164.68,127.0,South
+University of Mississippi,165.5,127.0,South
+Brigham Young University,166.53,91.0,West
+Long Island University,168.42,,Northeast
+University of Southern Mississippi,169.02,127.0,South
+"University of Colorado, Colorado Springs",169.16,,West
+Colorado School of Mines,169.65,110.0,West
+Georgia State University,169.71,99.0,South
+"University of Nevada, Las Vegas",171.62,,West
+Kent State University,171.68,127.0,Midwest
+Memorial University of Newfoundland,173.29,,Canada
+Utah State University,173.75,,West
+DePaul University,174.47,127.0,Midwest
+North Dakota State University,176.03,127.0,Midwest
+Nova Southeastern University,178.55,127.0,South
+"University of Arkansas, Fayetteville",178.7,127.0,South
+University of Bridgeport,178.73,,Northeast
+University of Louisville,179.12,127.0,South
+"University of Nebraska, Omaha",179.97,,Midwest
+Florida Institute of Technology,180.75,127.0,South
+"University of Arkansas, Little Rock",181.14,,South
+Rochester Institute of Technology,181.68,,Northeast
+Pace University,182.16,,Northeast
+New Mexico Institute of Mining and Technology,182.28,127.0,West
+"University of Nevada, Reno",182.47,,West
+"University of Alabama, Tuscaloosa",186.81,127.0,South
+"University of North Texas, Denton",186.84,127.0,South

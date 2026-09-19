@@ -1,0 +1,2758 @@
+source,target,weight
+MIT,Carnegie Mellon University,17
+UC Berkeley,Carnegie Mellon University,15
+University of Toronto,York University,15
+Stanford University,MIT,14
+University of Toronto,University of Waterloo,14
+UC Berkeley,MIT,12
+Stanford University,Carnegie Mellon University,11
+Carnegie Mellon University,Georgia Tech,10
+MIT,Georgia Tech,10
+Stanford University,UC Berkeley,9
+UC Berkeley,UC San Diego,9
+MIT,Northeastern University,8
+MIT,UC Berkeley,8
+MIT,Stanford University,8
+MIT,Cornell University,8
+MIT,Brown University,8
+MIT,UC San Diego,8
+Stanford University,University of British Columbia,8
+University of Toronto,University of Alberta,8
+MIT,University of Michigan,8
+UC Berkeley,Stanford University,8
+MIT,University of Washington,7
+Stanford University,Princeton University,7
+MIT,UCLA,7
+Stanford University,Cornell University,7
+Stanford University,UC San Diego,7
+UC Berkeley,"University of Wisconsin, Madison",7
+UC Berkeley,University of Washington,7
+MIT,"University of Texas, Austin",7
+MIT,"University of Massachusetts, Amherst",6
+Carnegie Mellon University,University of Washington,6
+Northwestern University,DePaul University,6
+University of Waterloo,University of Alberta,6
+Carnegie Mellon University,University of Southern California,6
+Carnegie Mellon University,"University of Wisconsin, Madison",6
+Stanford University,"University of Illinois, Urbana Champaign",6
+University of Toronto,Simon Fraser University,6
+University of British Columbia,University of Saskatchewan,6
+"University of Texas, Austin","University of Massachusetts, Amherst",6
+University of Toronto,Queens University,6
+University of Washington,UC San Diego,6
+MIT,Northwestern University,6
+MIT,Boston University,6
+"University of Illinois, Urbana Champaign",University of Michigan,6
+UC Berkeley,Georgia Tech,6
+Stanford University,UC Santa Cruz,6
+"University of Illinois, Urbana Champaign",University of Florida,6
+Carnegie Mellon University,Stanford University,5
+University of Pennsylvania,Columbia University,5
+Cornell University,University of Chicago,5
+University of Toronto,University of Ottawa,5
+University of Toronto,University of British Columbia,5
+UC Berkeley,University of Waterloo,5
+Carnegie Mellon University,UC Berkeley,5
+Carnegie Mellon University,University of Michigan,5
+"University of Illinois, Urbana Champaign","University of Missouri, Columbia",5
+UC Berkeley,University of Michigan,5
+"University of Illinois, Urbana Champaign",UCLA,5
+UC Berkeley,Cornell University,5
+UC Berkeley,UC Irvine,5
+Stanford University,New York University,5
+Carnegie Mellon University,University of Toronto,5
+"University of Illinois, Urbana Champaign",Texas A&M,5
+UC Berkeley,UC Davis,5
+University of Washington,University of British Columbia,5
+MIT,Indiana University,5
+"University of Wisconsin, Madison","University of Illinois, Urbana Champaign",5
+University of British Columbia,University of Calgary,5
+Stanford University,Columbia University,5
+University of Toronto,McMaster University,5
+MIT,University of Chicago,5
+Stanford University,University of Washington,5
+MIT,Yale University,5
+UC Berkeley,"State University of New York, Stony Brook",4
+Cornell University,"University of Maryland, College Park",4
+University of Chicago,DePaul University,4
+Yale University,Carnegie Mellon University,4
+University of Waterloo,Queens University,4
+Carleton University,Dalhousie University,4
+University of Michigan,Portland State University,4
+University of Michigan,"University of Illinois, Urbana Champaign",4
+"University of Massachusetts, Amherst",Colorado State University,4
+Texas A&M,Auburn University,4
+University of Waterloo,Dalhousie University,4
+MIT,Columbia University,4
+MIT,UC Irvine,4
+UC Berkeley,UCLA,4
+MIT,Toyota Technological Institute at Chicago,4
+Princeton University,Lehigh University,4
+"University of Illinois, Urbana Champaign",UC Irvine,4
+Stanford University,UCLA,4
+MIT,Naval Postgraduate School,4
+University of Washington,Georgia Tech,4
+University of Michigan,Georgia Tech,4
+University of Washington,"University of Wisconsin, Madison",4
+Princeton University,University of Michigan,4
+Carnegie Mellon University,McGill University,4
+Cornell University,"University of Texas, Austin",4
+Ohio State University,Michigan State University,4
+University of Pennsylvania,Johns Hopkins University,4
+UC Berkeley,University of British Columbia,4
+MIT,Duke University,4
+Georgia Tech,University of Georgia,4
+Purdue University,"University of Texas, Dallas",4
+"University of Illinois, Urbana Champaign",Indiana University,4
+Stanford University,Rice University,4
+University of British Columbia,Simon Fraser University,4
+Purdue University,Virginia Tech,4
+"University of Maryland, College Park",George Mason University,4
+MIT,California Institute of Technology,4
+Georgia Tech,Oregon State University,4
+"University of Maryland, College Park",Arizona State University,4
+UC Berkeley,"University of Texas, Austin",4
+Harvard University,Carnegie Mellon University,4
+MIT,University of Toronto,4
+University of Toronto,University of Saskatchewan,4
+University of Pittsburgh,Carnegie Mellon University,4
+UC Berkeley,"University of North Carolina, Chapel Hill",4
+University of Toronto,University of Washington,4
+Stanford University,University of Pennsylvania,4
+UC Berkeley,"University of Illinois, Urbana Champaign",4
+"University of Illinois, Urbana Champaign",North Carolina State University,4
+University of Waterloo,University of Western Ontario,4
+University of Utah,Brigham Young University,4
+University of Western Ontario,Dalhousie University,4
+University of Pennsylvania,Temple University,4
+"University of Illinois, Urbana Champaign",Ohio State University,4
+Cornell University,University of Waterloo,4
+Stanford University,Indiana University,3
+"University of Wisconsin, Madison",Georgia Tech,3
+University of Michigan,Wayne State University,3
+University of Michigan,"University of Massachusetts, Amherst",3
+University of Waterloo,University of Manitoba,3
+Cornell University,Georgia Tech,3
+Stanford University,Duke University,3
+"University of Massachusetts, Amherst",University of Delaware,3
+University of Waterloo,University of New Brunswick,3
+"University of Massachusetts, Amherst",Portland State University,3
+"University of Massachusetts, Amherst",Pennsylvania State University,3
+Purdue University,University of Notre Dame,3
+Simon Fraser University,University of Regina,3
+University of Waterloo,University of Victoria,3
+"University of Massachusetts, Amherst",University of Michigan,3
+"University of Massachusetts, Amherst",Columbia University,3
+"University of Maryland, College Park",York University,3
+Columbia University,Carnegie Mellon University,3
+"University of Massachusetts, Amherst","University of Texas, Arlington",3
+University of Waterloo,"Concordia University, Montreal",3
+University of Waterloo,Carleton University,3
+Cornell University,Carnegie Mellon University,3
+Rutgers University,Lehigh University,3
+UC Berkeley,University of Pennsylvania,3
+Cornell University,Stanford University,3
+MIT,Worcester Polytechnic Institute,3
+MIT,"Washington University, St. Louis",3
+University of Toronto,Carnegie Mellon University,3
+University of Toronto,Carleton University,3
+MIT,University of Southern California,3
+Harvard University,MIT,3
+MIT,University of Pennsylvania,3
+Harvard University,Northeastern University,3
+MIT,"University of Maryland, College Park",3
+MIT,"University of Illinois, Urbana Champaign",3
+MIT,University of British Columbia,3
+Harvard University,"University of Maryland, College Park",3
+MIT,Texas A&M,3
+MIT,Purdue University,3
+MIT,Princeton University,3
+MIT,Pennsylvania State University,3
+"University of Texas, Austin","University of Texas, Arlington",3
+"University of Texas, Austin","University of North Carolina, Chapel Hill",3
+University of Southern California,University of Florida,3
+"University of Texas, Austin","University of Minnesota, Minneapolis",3
+"University of Texas, Austin",University of Houston,3
+MIT,Clemson University,3
+Iowa State University,Kansas State University,3
+"University of Texas, Austin",UC Santa Barbara,3
+Iowa State University,"University of North Texas, Denton",3
+"University of Texas, Austin",Northeastern University,3
+Georgia Tech,Virginia Tech,3
+University of Toronto,McGill University,3
+Cornell University,"State University of New York, Stony Brook",3
+University of Toronto,Memorial University of Newfoundland,3
+Purdue University,"University of Minnesota, Minneapolis",3
+Purdue University,Oregon State University,3
+"University of Minnesota, Minneapolis",University of Florida,3
+"University of Minnesota, Minneapolis",University of Houston,3
+Cornell University,University of Pennsylvania,3
+Cornell University,University of Rochester,3
+Cornell University,"University of Wisconsin, Madison",3
+"University of Nebraska, Lincoln","University of Nebraska, Omaha",3
+Princeton University,Harvard University,3
+"University of North Carolina, Chapel Hill",Clemson University,3
+Pennsylvania State University,University of Central Florida,3
+Pennsylvania State University,North Carolina State University,3
+University of Victoria,University of New Brunswick,3
+Ohio State University,"State University of New York, Buffalo",3
+University of Victoria,Memorial University of Newfoundland,3
+University of Pennsylvania,George Mason University,3
+University of Pennsylvania,"University of Minnesota, Minneapolis",3
+University of Toronto,University of Victoria,3
+North Carolina State University,Clemson University,3
+Georgia Tech,North Carolina State University,3
+University of Toronto,University of Montreal,3
+University of Toronto,University of Calgary,3
+Georgia Tech,Texas A&M,3
+Michigan State University,Wright State University,3
+McGill University,Queens University,3
+"University of Maryland, College Park",University of Toronto,3
+Cornell University,Dartmouth College,3
+UC Berkeley,Princeton University,3
+Carnegie Mellon University,"University of Illinois, Urbana Champaign",3
+Carnegie Mellon University,Oregon State University,3
+UC Irvine,University of Oregon,3
+Brown University,University of Connecticut,3
+Wayne State University,Oakland University (Michigan),3
+"University of Illinois, Urbana Champaign","University of Wisconsin, Madison",3
+UC San Diego,UC Santa Barbara,3
+UC Santa Barbara,"University of Texas, Dallas",3
+"University of Illinois, Urbana Champaign",Brigham Young University,3
+Carnegie Mellon University,"University of Minnesota, Minneapolis",3
+University of Chicago,Carnegie Mellon University,3
+Yale University,Georgia Tech,3
+"University of Wisconsin, Madison",University of Pennsylvania,3
+"State University of New York, Buffalo","University of Louisiana, Lafayette",3
+Yale University,New York University,3
+"University of Illinois, Urbana Champaign",University of Iowa,3
+"University of Illinois, Urbana Champaign",Georgia Tech,3
+Yale University,Northwestern University,3
+UC Berkeley,"University of Minnesota, Minneapolis",3
+"University of Illinois, Urbana Champaign",Purdue University,3
+California Institute of Technology,UC Irvine,3
+"University of Illinois, Urbana Champaign","State University of New York, Buffalo",3
+"University of Illinois, Urbana Champaign",Northwestern University,3
+California Institute of Technology,Stanford University,3
+UC Berkeley,"University of Massachusetts, Amherst",3
+"University of Illinois, Urbana Champaign",Michigan State University,3
+"University of Illinois, Urbana Champaign",Illinois Institute of Technology,3
+Carnegie Mellon University,California Institute of Technology,3
+California Institute of Technology,Cornell University,3
+Carnegie Mellon University,Columbia University,3
+UC Berkeley,Harvard University,3
+UC Berkeley,Columbia University,3
+Brown University,Virginia Tech,3
+"University of Wisconsin, Madison",University of Michigan,3
+UC Berkeley,"University of Colorado, Boulder",3
+Stanford University,University of Michigan,3
+University of Alberta,University of Calgary,3
+Stanford University,"University of Maryland, College Park",3
+University of British Columbia,University of Manitoba,3
+University of British Columbia,University of Waterloo,3
+"University of Maryland, College Park",Purdue University,3
+"University of Wisconsin, Madison",Rutgers University,3
+University of Pittsburgh,University of South Carolina,2
+UC Berkeley,University of Victoria,2
+University of Southern California,University of Oklahoma,2
+University of Pittsburgh,University of South Florida,2
+University of British Columbia,McGill University,2
+University of Pittsburgh,University of British Columbia,2
+University of British Columbia,Memorial University of Newfoundland,2
+University of Arizona,Oakland University (Michigan),2
+New York University,Purdue University,2
+"University of Illinois, Urbana Champaign",McGill University,2
+New York University,"University of Illinois, Chicago",2
+UC Berkeley,University of Virginia,2
+Mississippi State University,University of Southern Mississippi,2
+UC Berkeley,"University of Wisconsin, Milwaukee",2
+New York University,"University of Maryland, College Park",2
+University of Rochester,Ohio State University,2
+University of Rochester,Rice University,2
+University of British Columbia,Queens University,2
+University of Rochester,Rochester Institute of Technology,2
+Michigan State University,"University of Alabama, Huntsville",2
+University of Rochester,"University of Maryland, College Park",2
+McGill University,University of Waterloo,2
+McGill University,University of Ottawa,2
+"University of Illinois, Urbana Champaign",Cornell University,2
+McGill University,Simon Fraser University,2
+University of Alberta,University of Waterloo,2
+"University of Illinois, Urbana Champaign",Brandeis University,2
+UC Berkeley,"University of Texas, El Paso",2
+University of Calgary,University of Manitoba,2
+McGill University,Carleton University,2
+Northwestern University,"University of Texas, Arlington",2
+UC Berkeley,University of Florida,2
+University of Pennsylvania,"University of Maryland, College Park",2
+Johns Hopkins University,"University of Maryland, College Park",2
+University of Pennsylvania,University of Delaware,2
+Northwestern University,"University of Illinois, Chicago",2
+University of Pennsylvania,UC Santa Cruz,2
+University of Pennsylvania,UC San Diego,2
+University of Pittsburgh,Michigan Technological University,2
+"University of Texas, Austin",North Carolina State University,2
+University of Pennsylvania,Stevens Institute of Technology,2
+University of Pennsylvania,Rutgers University,2
+University of British Columbia,"Concordia University, Montreal",2
+Ohio State University,Auburn University,2
+Ohio State University,Clemson University,2
+Kansas State University,Kent State University,2
+"University of Texas, Austin",Indiana University,2
+UC Berkeley,University of Houston,2
+North Carolina State University,"University of Texas, Arlington",2
+North Carolina State University,"University of North Carolina, Charlotte",2
+North Carolina State University,University of Louisville,2
+UC Berkeley,"University of Maryland, College Park",2
+"University of Texas, Arlington",University of Central Florida,2
+University of Pennsylvania,Western Michigan University,2
+North Carolina State University,Georgia Tech,2
+UC Berkeley,University of Pittsburgh,2
+University of Southern California,Wright State University,2
+University of Southern California,"University of Texas, Dallas",2
+North Carolina State University,George Mason University,2
+MIT,Arizona State University,2
+UC Berkeley,University of Southern California,2
+University of Pittsburgh,George Mason University,2
+UC Berkeley,"University of Texas, Dallas",2
+UC Davis,"University of Texas, Dallas",2
+University of Southern California,Arizona State University,2
+UCLA,Stanford University,2
+MIT,Dartmouth College,2
+University of Southern California,Texas A&M,2
+University of Chicago,University of Rochester,2
+MIT,UC Santa Barbara,2
+UC Santa Cruz,Santa Clara University,2
+UCLA,DePaul University,2
+University of British Columbia,University of Western Ontario,2
+MIT,UC Davis,2
+University of British Columbia,"Washington State University, Pullman",2
+MIT,Tufts University,2
+UCLA,University of Waterloo,2
+UCLA,Johns Hopkins University,2
+UCLA,Northwestern University,2
+MIT,"State University of New York, Albany",2
+MIT,Rice University,2
+MIT,University of Central Florida,2
+MIT,Rensselaer Polytechnic Institute,2
+UCLA,UC Irvine,2
+UCLA,UC Riverside,2
+UCLA,UC Santa Barbara,2
+MIT,Harvard University,2
+MIT,Ohio State University,2
+UCLA,UC Santa Cruz,2
+University of Central Florida,Iowa State University,2
+UCLA,"University of Texas, Austin",2
+MIT,New York University,2
+UCLA,University of Memphis,2
+UCLA,University of Southern California,2
+University of Southern California,University of Houston,2
+MIT,McGill University,2
+University of Southern California,"University of Minnesota, Minneapolis",2
+University of Chicago,Worcester Polytechnic Institute,2
+University of Calgary,University of Waterloo,2
+UC San Diego,Purdue University,2
+UC Irvine,UC Riverside,2
+"University of Illinois, Chicago",DePaul University,2
+UC Irvine,"University of Colorado, Boulder",2
+University of Southern California,"University of Nevada, Reno",2
+UC Irvine,"University of Texas, Austin",2
+MIT,"University of Wisconsin, Madison",2
+University of Florida,University of Southern Mississippi,2
+University of Alberta,Memorial University of Newfoundland,2
+MIT,University of Virginia,2
+UC Irvine,Vanderbilt University,2
+MIT,"University of Texas, San Antonio",2
+UC Riverside,George Mason University,2
+UC San Diego,Naval Postgraduate School,2
+MIT,"University of Tennessee, Knoxville",2
+UC San Diego,Santa Clara University,2
+MIT,"University of Colorado, Boulder",2
+Ohio State University,Drexel University,2
+UC San Diego,UC Riverside,2
+University of Alberta,Case Western Reserve University,2
+University of Southern California,George Washington University,2
+UC San Diego,UC Santa Cruz,2
+University of Southern California,Michigan State University,2
+University of Southern California,Ohio State University,2
+"University of Colorado, Boulder",UC Santa Cruz,2
+MIT,"University of Massachusetts, Lowell",2
+"University of Colorado, Boulder",Colorado State University,2
+UC Santa Barbara,Naval Postgraduate School,2
+MIT,"University of Maryland, Baltimore County",2
+UC Santa Barbara,Northeastern University,2
+MIT,University of Delaware,2
+MIT,University of Rochester,2
+Stanford University,New Jersey Institute of Technology,2
+University of Pennsylvania,Michigan State University,2
+"State University of New York, Stony Brook",Florida State University,2
+"University of Kansas, Lawrence","University of Missouri, Kansas City",2
+Rice University,Northwestern University,2
+University of Michigan,Carnegie Mellon University,2
+Johns Hopkins University,Purdue University,2
+"State University of New York, Stony Brook","State University of New York, Binghamton",2
+Rice University,UC Santa Cruz,2
+"University of Louisiana, Lafayette",Florida Institute of Technology,2
+"University of Massachusetts, Amherst",Worcester Polytechnic Institute,2
+"University of Massachusetts, Amherst","University of Maryland, Baltimore County",2
+"University of Massachusetts, Amherst",University of Utah,2
+Rice University,"University of Maryland, College Park",2
+"State University of New York, Stony Brook",Arizona State University,2
+"University of Massachusetts, Amherst",University of New Mexico,2
+"University of Massachusetts, Amherst","University of Minnesota, Minneapolis",2
+Rice University,University of Utah,2
+"State University of New York, Buffalo","University of Alabama, Huntsville",2
+University of Michigan,DePaul University,2
+Rice University,Indiana University,2
+"State University of New York, Stony Brook","University of Illinois, Urbana Champaign",2
+University of Michigan,Northeastern University,2
+"University of Illinois, Urbana Champaign",Vanderbilt University,2
+"University of Minnesota, Minneapolis",Carleton University,2
+"University of Minnesota, Minneapolis",Arizona State University,2
+"University of Illinois, Urbana Champaign","Washington State University, Pullman",2
+"University of Illinois, Urbana Champaign","Washington University, St. Louis",2
+University of Michigan,Virginia Tech,2
+Purdue University,Utah State University,2
+Purdue University,Worcester Polytechnic Institute,2
+Queens University,University of Manitoba,2
+"University of Illinois, Urbana Champaign",Wright State University,2
+Queens University,University of Saskatchewan,2
+"State University of New York, Stony Brook",Yale University,2
+University of Michigan,"University of Illinois, Chicago",2
+"State University of New York, Stony Brook",Wayne State University,2
+University of Michigan,Pennsylvania State University,2
+"University of Massachusetts, Amherst","University of Massachusetts, Lowell",2
+University of Manitoba,University of Waterloo,2
+"University of Illinois, Urbana Champaign",University of Virginia,2
+"University of Maryland, College Park",Temple University,2
+"University of Massachusetts, Amherst",Carnegie Mellon University,2
+Stanford University,"University of Massachusetts, Amherst",2
+"University of Maryland, College Park",Worcester Polytechnic Institute,2
+"University of Maryland, College Park",Virginia Tech,2
+"University of Maryland, College Park","University of Wisconsin, Madison",2
+"University of Maryland, College Park",Rutgers University,2
+Stanford University,College of William and Mary,2
+"University of Maryland, College Park",UC Santa Barbara,2
+"University of Massachusetts, Amherst","University of Hawaii, Manoa",2
+Stanford University,Dartmouth College,2
+Stanford University,Harvard University,2
+Stanford University,"State University of New York, Stony Brook",2
+"University of Maryland, College Park","University of Maryland, Baltimore County",2
+Stanford University,Johns Hopkins University,2
+Stanford University,Rutgers University,2
+"University of Maryland, College Park",University of Pittsburgh,2
+"University of Maryland, College Park",Rensselaer Polytechnic Institute,2
+"University of Massachusetts, Amherst",Cornell University,2
+"University of Massachusetts, Amherst",George Washington University,2
+Simon Fraser University,University of Victoria,2
+"State University of New York, Binghamton",Indiana University,2
+"State University of New York, Albany","University of Nebraska, Omaha",2
+Stanford University,Yale University,2
+Rutgers University,Rensselaer Polytechnic Institute,2
+Rutgers University,"University of Massachusetts, Amherst",2
+"University of Massachusetts, Amherst",Purdue University,2
+Stanford University,"University of Wisconsin, Madison",2
+Rutgers University,University of South Carolina,2
+"University of Maryland, College Park",Lehigh University,2
+Simon Fraser University,Memorial University of Newfoundland,2
+Simon Fraser University,University of Calgary,2
+Stanford University,University of Toronto,2
+Stanford University,"University of Texas, Austin",2
+Stanford University,"University of North Carolina, Chapel Hill",2
+Simon Fraser University,University of Saskatchewan,2
+"University of Minnesota, Minneapolis",Florida Atlantic University,2
+Syracuse University,"State University of New York, Albany",2
+UC Berkeley,UC Santa Barbara,2
+Pennsylvania State University,"University of Texas, Dallas",2
+Pennsylvania State University,New Jersey Institute of Technology,2
+UC Berkeley,New York University,2
+Pennsylvania State University,Purdue University,2
+"University of North Carolina, Chapel Hill",University of Utah,2
+Pennsylvania State University,UC San Diego,2
+Pennsylvania State University,"University of Kansas, Lawrence",2
+"University of North Carolina, Chapel Hill","University of Maryland, Baltimore County",2
+"University of North Carolina, Chapel Hill",University of Kentucky,2
+Princeton University,Portland State University,2
+Polytechnic Institute of NYU,Long Island University,2
+"University of North Carolina, Chapel Hill","University of Arkansas, Fayetteville",2
+"University of North Carolina, Chapel Hill",UC Irvine,2
+"University of North Carolina, Chapel Hill",Purdue University,2
+"University of North Carolina, Chapel Hill",North Carolina State University,2
+"University of North Carolina, Chapel Hill",DePaul University,2
+Princeton University,Columbia University,2
+University of Notre Dame,Clemson University,2
+Pennsylvania State University,Iowa State University,2
+Ohio State University,Wright State University,2
+Ohio State University,Wayne State University,2
+Ohio State University,Missouri University of Science and Technology,2
+University of Pennsylvania,Florida Atlantic University,2
+Ohio State University,Pennsylvania State University,2
+Ohio State University,Purdue University,2
+UC Berkeley,Texas A&M,2
+"University of Maryland, College Park","University of Texas, Arlington",2
+Ohio State University,"State University of New York, Stony Brook",2
+University of Pennsylvania,Cornell University,2
+UC Berkeley,Pennsylvania State University,2
+Ohio State University,University of Central Florida,2
+Ohio State University,University of Kentucky,2
+Ohio State University,"University of Maryland, Baltimore County",2
+University of Pennsylvania,Arizona State University,2
+Ohio State University,University of South Florida,2
+Ohio State University,"University of Texas, San Antonio",2
+UC Berkeley,Duke University,2
+Princeton University,Rutgers University,2
+"University of Illinois, Urbana Champaign","University of Texas, San Antonio",2
+"University of Illinois, Urbana Champaign",University of South Carolina,2
+Purdue University,Michigan Technological University,2
+Purdue University,Missouri University of Science and Technology,2
+Purdue University,New Jersey Institute of Technology,2
+Purdue University,North Carolina State University,2
+"University of Illinois, Urbana Champaign","University of Nebraska, Lincoln",2
+Purdue University,Northwestern University,2
+"University of Illinois, Urbana Champaign",University of Saskatchewan,2
+Purdue University,"State University of New York, Buffalo",2
+UC Berkeley,California Institute of Technology,2
+Purdue University,Syracuse University,2
+Purdue University,UC Davis,2
+Syracuse University,Virginia Tech,2
+"University of Minnesota, Minneapolis",Michigan State University,2
+Purdue University,University of Florida,2
+Syracuse University,University of Utah,2
+"University of Minnesota, Minneapolis",George Mason University,2
+"University of Illinois, Urbana Champaign","University of Maryland, Baltimore County",2
+"University of Minnesota, Minneapolis","University of Illinois, Chicago",2
+Purdue University,Florida International University,2
+Purdue University,DePaul University,2
+Princeton University,Tufts University,2
+Princeton University,UC San Diego,2
+University of Montreal,University of Ottawa,2
+UC Berkeley,Brown University,2
+Princeton University,University of Pennsylvania,2
+"University of Missouri, Columbia",University of Louisville,2
+Princeton University,"University of Tennessee, Knoxville",2
+"University of Illinois, Urbana Champaign",UC Santa Barbara,2
+Princeton University,"University of Texas, Austin",2
+"University of Illinois, Urbana Champaign",University of Chicago,2
+Princeton University,University of Virginia,2
+Purdue University,Arizona State University,2
+Purdue University,Brigham Young University,2
+"University of Minnesota, Minneapolis","University of Missouri, Kansas City",2
+"University of Illinois, Urbana Champaign",University of Houston,2
+"University of Texas, Austin",Ohio State University,2
+University of Pennsylvania,Simon Fraser University,2
+University of Virginia,"State University of New York, Binghamton",2
+George Mason University,Colorado State University,2
+Cornell University,"University of Tennessee, Knoxville",2
+Harvard University,"State University of New York, Stony Brook",2
+Wayne State University,Kent State University,2
+Harvard University,Stanford University,2
+University of Utah,University of South Florida,2
+Harvard University,Rutgers University,2
+College of William and Mary,George Mason University,2
+University of Utah,Utah State University,2
+Harvard University,New York University,2
+Cornell University,Pennsylvania State University,2
+Virginia Tech,Auburn University,2
+"University of Wisconsin, Madison",Portland State University,2
+Carnegie Mellon University,"University of Kansas, Lawrence",2
+Harvard University,Duke University,2
+Harvard University,UC Berkeley,2
+"University of Wisconsin, Madison",University of Waterloo,2
+"University of Texas, Austin",University of Virginia,2
+Harvard University,"University of North Carolina, Chapel Hill",2
+Harvard University,University of Toronto,2
+"University of Wisconsin, Madison",Duke University,2
+University of Virginia,Clemson University,2
+Brown University,Rensselaer Polytechnic Institute,2
+"University of Texas, Austin","University of Wisconsin, Milwaukee",2
+University of Virginia,"University of Minnesota, Minneapolis",2
+University of Washington,Northwestern University,2
+Carnegie Mellon University,University of Alberta,2
+Florida International University,Nova Southeastern University,2
+Harvard University,"University of Massachusetts, Boston",2
+Brown University,Brandeis University,2
+Cornell University,"University of Texas, Dallas",2
+Carnegie Mellon University,Arizona State University,2
+Wayne State University,DePaul University,2
+Cornell University,"University of North Carolina, Chapel Hill",2
+"University of Wisconsin, Madison",Rensselaer Polytechnic Institute,2
+Harvard University,Cornell University,2
+California Institute of Technology,MIT,2
+University of Toronto,Rutgers University,2
+Georgia Tech,University of Alberta,2
+Case Western Reserve University,"University of Nevada, Las Vegas",2
+"University of Wisconsin, Madison","University of Maryland, College Park",2
+Georgia Tech,University of Houston,2
+California Institute of Technology,Michigan State University,2
+Cornell University,"University of Illinois, Urbana Champaign",2
+Cornell University,Purdue University,2
+"University of Wisconsin, Madison",University of Florida,2
+Wayne State University,University of Toledo,2
+Cornell University,University of Florida,2
+"University of Wisconsin, Madison",University of Kentucky,2
+"University of Wisconsin, Madison",University of Southern California,2
+California Institute of Technology,Carnegie Mellon University,2
+Georgia Tech,University of Notre Dame,2
+University of Washington,Cornell University,2
+CUNY Graduate Center,Pace University,2
+"University of Wisconsin, Madison",UC Berkeley,2
+Cornell University,"University of Massachusetts, Amherst",2
+Brown University,"Washington University, St. Louis",2
+"University of Wisconsin, Madison",Syracuse University,2
+Carnegie Mellon University,Worcester Polytechnic Institute,2
+University of Washington,Princeton University,2
+"University of Wisconsin, Madison","State University of New York, Buffalo",2
+"University of Wisconsin, Madison",University of Toronto,2
+University of Washington,Carnegie Mellon University,2
+Carnegie Mellon University,"Washington University, St. Louis",2
+Cornell University,Rensselaer Polytechnic Institute,2
+Brown University,"State University of New York, Stony Brook",2
+Cornell University,Queens University,2
+Harvard University,Columbia University,2
+Cornell University,Indiana University,2
+Carnegie Mellon University,Texas A&M,2
+Harvard University,Yale University,2
+Cornell University,Yale University,2
+Columbia University,"University of Texas, Dallas",2
+Cornell University,University of Western Ontario,2
+University of Waterloo,Memorial University of Newfoundland,2
+University of Toronto,University of Rochester,2
+University of Waterloo,McGill University,2
+Auburn University,"University of Alabama, Huntsville",2
+Vanderbilt University,Clemson University,2
+Arizona State University,Utah State University,2
+Vanderbilt University,College of William and Mary,2
+Carnegie Mellon University,MIT,2
+Yale University,UC Irvine,2
+Carnegie Mellon University,Simon Fraser University,2
+Illinois Institute of Technology,"Concordia University, Montreal",2
+Georgia Tech,Carnegie Mellon University,2
+University of Washington,New York University,2
+Columbia University,University of Pennsylvania,2
+"University of Texas, Austin",UC Irvine,2
+Carnegie Mellon University,Northwestern University,2
+University of Waterloo,University of Ottawa,2
+Carnegie Mellon University,Princeton University,2
+Georgia Tech,Northwestern University,2
+"University of Texas, Austin",Rice University,2
+Georgia Tech,Pennsylvania State University,2
+Carnegie Mellon University,Queens University,2
+University of Waterloo,University of Calgary,2
+Carnegie Mellon University,"University of Texas, Austin",2
+Yale University,University of Montreal,2
+Columbia University,UC Irvine,2
+"University of Texas, Austin","State University of New York, Stony Brook",2
+Columbia University,UC Davis,2
+"Washington University, St. Louis","University of North Carolina, Charlotte",2
+Yale University,"University of Illinois, Urbana Champaign",2
+Iowa State University,University of Notre Dame,2
+Columbia University,Ohio State University,2
+"Washington University, St. Louis",Michigan State University,2
+"University of Texas, Austin","University of Texas, Dallas",2
+Brown University,University of Kentucky,2
+Carnegie Mellon University,University of Waterloo,2
+Carnegie Mellon University,Duke University,2
+Carnegie Mellon University,DePaul University,2
+Indiana University,"State University of New York, Binghamton",2
+University of Virginia,George Mason University,2
+Carnegie Mellon University,Indiana University,2
+"University of Texas, Austin",University of Michigan,2
+University of Toronto,University of Western Ontario,2
+University of Western Ontario,University of Saskatchewan,2
+Boston University,"University of Massachusetts, Lowell",2
+University of Washington,University of Waterloo,2
+University of Virginia,College of William and Mary,2
+Carnegie Mellon University,Dartmouth College,2
+Colorado State University,"University of Idaho, Moscow",2
+Carnegie Mellon University,George Mason University,2
+Indiana University,"University of Hawaii, Manoa",2
+Carnegie Mellon University,Harvard University,2
+Columbia University,George Mason University,2
+Yale University,Princeton University,2
+Indiana University,Worcester Polytechnic Institute,2
+"University of Wisconsin, Madison",Cornell University,2
+"University of Texas, Austin",University of Central Florida,2
+University of Washington,"Washington University, St. Louis",2
+Carnegie Mellon University,University of Pennsylvania,2
+Columbia University,Georgia Tech,2
+University of Virginia,Drexel University,2
+"University of Kansas, Lawrence",North Carolina State University,1
+"University of Wisconsin, Madison",University of Oklahoma,1
+"University of Kansas, Lawrence",Oregon State University,1
+"University of Louisiana, Lafayette",Georgia State University,1
+"University of Louisiana, Lafayette",Florida Atlantic University,1
+"University of Kansas, Lawrence","University of Colorado, Colorado Springs",1
+"University of Wisconsin, Madison",University of Rochester,1
+"University of Louisiana, Lafayette",Colorado State University,1
+"University of Louisiana, Lafayette",Pennsylvania State University,1
+University of Kentucky,New Mexico State University,1
+"University of Louisiana, Lafayette",Oklahoma State University,1
+"University of Wisconsin, Madison",University of Pittsburgh,1
+"University of Louisiana, Lafayette",Mississippi State University,1
+"University of Kansas, Lawrence","University of Nevada, Reno",1
+"University of Kansas, Lawrence","University of Nebraska, Lincoln",1
+University of Kentucky,Western Michigan University,1
+"University of Illinois, Urbana Champaign",Wayne State University,1
+"University of Kansas, Lawrence",Missouri University of Science and Technology,1
+"University of Wisconsin, Madison","University of Wisconsin, Milwaukee",1
+"University of Illinois, Urbana Champaign",University of Utah,1
+"University of Illinois, Urbana Champaign",University of Toronto,1
+"University of Illinois, Urbana Champaign",University of Toledo,1
+"University of Illinois, Urbana Champaign","University of Texas, Austin",1
+"University of Illinois, Urbana Champaign","University of Texas, Arlington",1
+"University of Wisconsin, Milwaukee",George Mason University,1
+"University of Wisconsin, Milwaukee",McGill University,1
+"University of Illinois, Urbana Champaign","University of Tennessee, Knoxville",1
+"University of Illinois, Urbana Champaign",University of South Florida,1
+"University of Wisconsin, Milwaukee",Nova Southeastern University,1
+"University of Wisconsin, Milwaukee",Oregon Health and Science University,1
+"University of Illinois, Urbana Champaign",University of Rochester,1
+"University of Illinois, Urbana Champaign",University of Pittsburgh,1
+"University of Illinois, Urbana Champaign",University of Oregon,1
+"University of Illinois, Urbana Champaign",University of Oklahoma,1
+"University of Illinois, Urbana Champaign",University of Notre Dame,1
+"University of Illinois, Urbana Champaign","University of North Carolina, Charlotte",1
+"University of Illinois, Urbana Champaign","University of North Carolina, Chapel Hill",1
+"University of Illinois, Urbana Champaign","University of Missouri, Kansas City",1
+University of Wyoming,"University of Nevada, Las Vegas",1
+"University of Illinois, Urbana Champaign","University of Minnesota, Minneapolis",1
+"University of Wisconsin, Madison",University of Wyoming,1
+"University of Illinois, Urbana Champaign",University of Washington,1
+"University of Kansas, Lawrence",McGill University,1
+"University of Illinois, Urbana Champaign",Virginia Tech,1
+"University of Kansas, Lawrence",Iowa State University,1
+"University of Kansas, Lawrence",George Mason University,1
+"University of Kansas, Lawrence",CUNY Graduate Center,1
+University of Iowa,Virginia Tech,1
+University of Iowa,"University of Wisconsin, Milwaukee",1
+University of Iowa,University of Washington,1
+University of Iowa,University of Tulsa,1
+University of Iowa,"University of North Texas, Denton",1
+University of Iowa,"University of Nevada, Las Vegas",1
+University of Iowa,"University of Minnesota, Minneapolis",1
+University of Iowa,"University of Colorado, Denver",1
+"University of Wisconsin, Madison","University of Texas, Arlington",1
+University of Iowa,"University of Alabama, Huntsville",1
+University of Iowa,Pennsylvania State University,1
+University of Iowa,Old Dominion University,1
+University of Iowa,Michigan Technological University,1
+University of Iowa,Memorial University of Newfoundland,1
+University of Iowa,Illinois Institute of Technology,1
+"University of Louisiana, Lafayette",Santa Clara University,1
+"University of Wisconsin, Madison",University of Victoria,1
+"University of Wisconsin, Madison",University of Washington,1
+"University of Louisiana, Lafayette",Portland State University,1
+"University of Texas, Austin",Ohio University,1
+"University of Louisiana, Lafayette",UC Davis,1
+"University of Wisconsin, Madison",Kansas State University,1
+"University of Wisconsin, Madison",Arizona State University,1
+"University of Wisconsin, Madison",Auburn University,1
+"University of Maryland, College Park",University of Western Ontario,1
+"University of Wisconsin, Madison",Carnegie Mellon University,1
+"University of Wisconsin, Madison",Case Western Reserve University,1
+"University of Wisconsin, Madison",DePaul University,1
+"University of Maryland, College Park",University of Waterloo,1
+"University of Wisconsin, Madison",Florida Atlantic University,1
+"University of Wisconsin, Madison",Florida International University,1
+"University of Maryland, College Park",University of Virginia,1
+"University of Wisconsin, Madison",Iowa State University,1
+"University of Wisconsin, Madison",Kent State University,1
+University of Western Ontario,University of Waterloo,1
+"University of Maryland, College Park","University of Texas, Austin",1
+"University of Wisconsin, Madison",McMaster University,1
+"University of Maryland, College Park",University of Rochester,1
+"University of Wisconsin, Madison",Michigan State University,1
+"University of Wisconsin, Madison",New York University,1
+"University of Maryland, College Park",University of Rhode Island,1
+"University of Wisconsin, Madison",Northwestern University,1
+"University of Maryland, College Park","University of Nebraska, Omaha",1
+"University of Maryland, College Park","University of Minnesota, Minneapolis",1
+"University of Maryland, College Park",University of Michigan,1
+"University of Maryland, College Park",University of Memphis,1
+"University of Maryland, College Park","Washington University, St. Louis",1
+University of Western Ontario,University of Toledo,1
+"University of Wisconsin, Madison",Polytechnic Institute of NYU,1
+"University of Massachusetts, Amherst",Michigan Technological University,1
+"University of Massachusetts, Amherst","State University of New York, Binghamton",1
+"University of Massachusetts, Amherst","Southern Illinois University, Carbondale",1
+"University of Massachusetts, Amherst",Rutgers University,1
+University of Waterloo,University of Regina,1
+"University of Massachusetts, Amherst",Queens University,1
+University of Waterloo,University of Rochester,1
+University of Waterloo,University of Saskatchewan,1
+"University of Massachusetts, Amherst",Northeastern University,1
+"University of Massachusetts, Amherst",North Carolina State University,1
+"University of Massachusetts, Amherst",New Mexico Institute of Mining and Technology,1
+"University of Massachusetts, Amherst",Mississippi State University,1
+University of Waterloo,University of Southern Mississippi,1
+"University of Massachusetts, Amherst",Brandeis University,1
+"University of Massachusetts, Amherst",Michigan State University,1
+"University of Massachusetts, Amherst",McGill University,1
+"University of Massachusetts, Amherst",Harvard University,1
+University of Waterloo,"University of Texas, Austin",1
+"University of Massachusetts, Amherst",Georgia Tech,1
+University of Waterloo,"University of Texas, San Antonio",1
+University of Western Ontario,Texas Tech University,1
+University of Western Ontario,"University of Nebraska, Lincoln",1
+University of Western Ontario,University of New Brunswick,1
+"University of Massachusetts, Amherst",Clemson University,1
+"University of Massachusetts, Amherst",Case Western Reserve University,1
+"University of Wisconsin, Madison",Oregon State University,1
+"University of Maryland, College Park","University of Massachusetts, Amherst",1
+"University of Wisconsin, Madison",University of Notre Dame,1
+"University of Maryland, College Park",Drexel University,1
+"University of Wisconsin, Madison","University of Hawaii, Manoa",1
+"University of Illinois, Urbana Champaign",University of Memphis,1
+"University of Wisconsin, Madison",University of Memphis,1
+"University of Maryland, College Park",Iowa State University,1
+"University of Wisconsin, Madison",University of Miami,1
+"University of Maryland, College Park",Illinois Institute of Technology,1
+"University of Maryland, College Park",Georgia Tech,1
+"University of Maryland, College Park",George Washington University,1
+"University of Wisconsin, Madison","University of Missouri, Kansas City",1
+"University of Maryland, College Park",Florida Institute of Technology,1
+"University of Maryland, College Park",Duke University,1
+"University of Maryland, College Park",Brown University,1
+"University of Maryland, College Park",Ohio State University,1
+"University of Maryland, College Park",Boston University,1
+"University of Maryland, Baltimore County",Temple University,1
+"University of Maryland, Baltimore County",DePaul University,1
+"University of Wisconsin, Madison",University of New Mexico,1
+University of Manitoba,University of Victoria,1
+"University of Wisconsin, Madison","University of North Carolina, Chapel Hill",1
+University of Manitoba,University of New Brunswick,1
+University of Manitoba,University of Calgary,1
+University of Manitoba,Queens University,1
+"University of Louisiana, Lafayette",Virginia Tech,1
+"University of Louisiana, Lafayette",University of Bridgeport,1
+"University of Maryland, College Park",Northeastern University,1
+"University of Maryland, College Park",Old Dominion University,1
+"University of Wisconsin, Madison",Purdue University,1
+"University of Maryland, College Park",Syracuse University,1
+"University of Maryland, College Park",University of Kentucky,1
+"University of Maryland, College Park",University of Iowa,1
+"University of Maryland, College Park",University of British Columbia,1
+"University of Maryland, College Park",University of Arizona,1
+"University of Wisconsin, Madison",Simon Fraser University,1
+"University of Maryland, College Park",University of Alberta,1
+"University of Wisconsin, Madison",Stanford University,1
+"University of Maryland, College Park","University of Alabama, Tuscaloosa",1
+"University of Wisconsin, Madison","State University of New York, Stony Brook",1
+"University of Maryland, College Park",UC Riverside,1
+"University of Maryland, College Park",UC Irvine,1
+"University of Wisconsin, Madison",UC Davis,1
+"University of Maryland, College Park",Oregon Health and Science University,1
+"University of Maryland, College Park",Stevens Institute of Technology,1
+"University of Maryland, College Park",Southern Methodist University,1
+"University of Maryland, College Park",Simon Fraser University,1
+"University of Wisconsin, Madison",UC Riverside,1
+"University of Wisconsin, Madison",UC Santa Cruz,1
+"University of Wisconsin, Madison",University of Cincinnati,1
+"University of Maryland, College Park",Rochester Institute of Technology,1
+"University of Wisconsin, Madison",University of Delaware,1
+"University of Wisconsin, Madison",University of Denver,1
+"University of Maryland, College Park",Portland State University,1
+"University of Wisconsin, Madison",University of Georgia,1
+"University of Wisconsin, Madison",University of Louisville,1
+Vanderbilt University,University of Louisville,1
+"University of Illinois, Urbana Champaign","University of Maryland, College Park",1
+University of Chicago,"University of Massachusetts, Boston",1
+University of Cincinnati,Auburn University,1
+University of Cincinnati,Arizona State University,1
+Worcester Polytechnic Institute,"University of North Carolina, Charlotte",1
+University of Chicago,Utah State University,1
+University of Chicago,"University of Wisconsin, Madison",1
+Worcester Polytechnic Institute,Utah State University,1
+University of Chicago,"University of Texas, Austin",1
+University of Chicago,University of South Florida,1
+University of Chicago,University of South Carolina,1
+Wright State University,"University of Alabama, Tuscaloosa",1
+University of Chicago,University of New Mexico,1
+Yale University,Brown University,1
+University of Chicago,University of Delaware,1
+Worcester Polytechnic Institute,"University of Arkansas, Little Rock",1
+University of Chicago,UC Berkeley,1
+University of Chicago,Rutgers University,1
+University of Chicago,Rochester Institute of Technology,1
+University of Chicago,Purdue University,1
+University of Chicago,Old Dominion University,1
+Yale University,Dartmouth College,1
+University of Chicago,Ohio State University,1
+University of Chicago,Illinois Institute of Technology,1
+Yale University,DePaul University,1
+University of Chicago,Cornell University,1
+Yale University,Georgia State University,1
+University of Chicago,Brandeis University,1
+University of Cincinnati,Clemson University,1
+Western Michigan University,"University of North Texas, Denton",1
+University of Central Florida,"University of Texas, Arlington",1
+Wayne State University,Western Michigan University,1
+University of Connecticut,University of Bridgeport,1
+Wayne State University,UC Riverside,1
+University of Connecticut,New Jersey Institute of Technology,1
+Wayne State University,University of Central Florida,1
+"University of Colorado, Denver",University of Iowa,1
+"University of Colorado, Boulder","University of Texas, San Antonio",1
+Wayne State University,"University of Illinois, Chicago",1
+Wayne State University,"University of North Texas, Denton",1
+"University of Colorado, Boulder","University of Massachusetts, Amherst",1
+"University of Colorado, Boulder","University of Illinois, Urbana Champaign",1
+"University of Colorado, Boulder",University of Denver,1
+"University of Colorado, Boulder","University of Colorado, Denver",1
+"University of Colorado, Boulder",UC Davis,1
+University of Cincinnati,Pace University,1
+"University of Colorado, Boulder",Texas A&M,1
+"University of Colorado, Boulder",Ohio State University,1
+"University of Colorado, Boulder",North Carolina State University,1
+"University of Colorado, Boulder",New Mexico State University,1
+Wayne State University,Wright State University,1
+"University of Colorado, Boulder",Clarkson University,1
+"University of Colorado, Boulder",Carnegie Mellon University,1
+University of Cincinnati,Wayne State University,1
+University of Cincinnati,University of South Florida,1
+University of Cincinnati,"University of North Carolina, Charlotte",1
+University of Cincinnati,University of Bridgeport,1
+University of Cincinnati,"State University of New York, Binghamton",1
+Yale University,Illinois Institute of Technology,1
+University of Central Florida,University of South Florida,1
+University of Wyoming,"University of Nevada, Reno",1
+University of British Columbia,University of Alberta,1
+Yale University,UCLA,1
+University of British Columbia,University of Victoria,1
+Yale University,University of Alberta,1
+University of British Columbia,University of Utah,1
+University of British Columbia,"University of Texas, Dallas",1
+Yale University,"University of Colorado, Boulder",1
+University of British Columbia,University of Ottawa,1
+University of British Columbia,"University of Nevada, Las Vegas",1
+University of British Columbia,University of Montreal,1
+Yale University,University of Delaware,1
+Yale University,"University of Hawaii, Manoa",1
+University of British Columbia,"University of Colorado, Denver",1
+University of British Columbia,Stevens Institute of Technology,1
+Yale University,"State University of New York, Buffalo",1
+Yale University,"University of Maryland, College Park",1
+Yale University,"University of Massachusetts, Amherst",1
+University of British Columbia,North Dakota State University,1
+University of British Columbia,North Carolina State University,1
+Yale University,University of Oregon,1
+Yale University,University of Pennsylvania,1
+University of British Columbia,Dalhousie University,1
+University of British Columbia,Cornell University,1
+Yale University,University of South Florida,1
+University of Arizona,"Washington State University, Pullman",1
+University of Arizona,Utah State University,1
+University of Arizona,University of Virginia,1
+University of British Columbia,Virginia Commonwealth University,1
+University of Calgary,Carleton University,1
+University of Central Florida,"University of North Texas, Denton",1
+Yale University,Naval Postgraduate School,1
+Yale University,Indiana University,1
+University of Central Florida,"University of Nevada, Reno",1
+University of Central Florida,"University of Massachusetts, Boston",1
+University of Central Florida,"University of Colorado, Colorado Springs",1
+University of Central Florida,"University of Arkansas, Fayetteville",1
+Yale University,Long Island University,1
+Yale University,Louisiana State University,1
+University of Central Florida,Texas A&M,1
+Yale University,McGill University,1
+Yale University,Michigan State University,1
+University of Central Florida,Nova Southeastern University,1
+University of Central Florida,Missouri University of Science and Technology,1
+University of Central Florida,Georgia State University,1
+Yale University,Stanford University,1
+University of Central Florida,George Mason University,1
+University of Central Florida,Florida International University,1
+University of Central Florida,Florida Institute of Technology,1
+University of Central Florida,Clemson University,1
+University of Central Florida,Claremont Graduate University,1
+Yale University,Portland State University,1
+University of Calgary,University of Victoria,1
+University of Calgary,University of Saskatchewan,1
+University of Calgary,University of Ottawa,1
+Yale University,Rensselaer Polytechnic Institute,1
+Yale University,Rutgers University,1
+University of Calgary,Clarkson University,1
+University of Connecticut,University of Rhode Island,1
+University of Connecticut,Worcester Polytechnic Institute,1
+University of Delaware,Brandeis University,1
+"University of Illinois, Urbana Champaign",Pennsylvania State University,1
+"University of Illinois, Urbana Champaign",Rochester Institute of Technology,1
+"University of Illinois, Urbana Champaign",Rensselaer Polytechnic Institute,1
+"University of Illinois, Urbana Champaign",Queens University,1
+Virginia Commonwealth University,Nova Southeastern University,1
+Virginia Tech,Florida Atlantic University,1
+Virginia Tech,Florida International University,1
+Virginia Tech,North Dakota State University,1
+Virginia Tech,Rochester Institute of Technology,1
+Virginia Tech,"University of Alabama, Huntsville",1
+Virginia Tech,University of Iowa,1
+"University of Illinois, Urbana Champaign",Princeton University,1
+Virginia Tech,"University of Massachusetts, Lowell",1
+Virginia Tech,University of Southern Mississippi,1
+Vanderbilt University,University of Toledo,1
+Virginia Tech,Wayne State University,1
+"Washington State University, Pullman",Iowa State University,1
+"Washington State University, Pullman",Montana State University,1
+"Washington State University, Pullman",Naval Postgraduate School,1
+"Washington State University, Pullman","State University of New York, Buffalo",1
+"Washington State University, Pullman",Temple University,1
+"Washington State University, Pullman",University of Bridgeport,1
+"University of Illinois, Urbana Champaign",New Jersey Institute of Technology,1
+"Washington State University, Pullman","University of Colorado, Boulder",1
+"Washington State University, Pullman","University of Kansas, Lawrence",1
+"Washington State University, Pullman",University of Miami,1
+"University of Illinois, Urbana Champaign",Missouri University of Science and Technology,1
+"University of Illinois, Urbana Champaign",Rutgers University,1
+"University of Illinois, Urbana Champaign",Santa Clara University,1
+University of Delaware,Southern Methodist University,1
+"University of Illinois, Urbana Champaign","University of Alabama, Birmingham",1
+"University of Illinois, Urbana Champaign","University of Louisiana, Lafayette",1
+University of Wyoming,"University of Texas, El Paso",1
+"University of Illinois, Urbana Champaign","University of Illinois, Chicago",1
+Utah State University,Brigham Young University,1
+"University of Illinois, Urbana Champaign",University of Delaware,1
+"University of Illinois, Urbana Champaign",University of Connecticut,1
+"University of Illinois, Urbana Champaign","University of Colorado, Boulder",1
+Utah State University,Colorado State University,1
+"University of Illinois, Urbana Champaign",University of Central Florida,1
+"University of Illinois, Urbana Champaign","University of Arkansas, Little Rock",1
+"University of Illinois, Urbana Champaign",University of Alberta,1
+"University of Illinois, Urbana Champaign","University of Alabama, Tuscaloosa",1
+Vanderbilt University,Indiana University,1
+"University of Illinois, Urbana Champaign",Simon Fraser University,1
+Vanderbilt University,Michigan Technological University,1
+"University of Illinois, Urbana Champaign",UC San Diego,1
+"University of Illinois, Urbana Champaign",UC Berkeley,1
+"University of Illinois, Urbana Champaign",Tufts University,1
+Vanderbilt University,"University of Alabama, Tuscaloosa",1
+"University of Illinois, Urbana Champaign",Temple University,1
+"University of Illinois, Urbana Champaign","State University of New York, Stony Brook",1
+"University of Massachusetts, Amherst",University of Alberta,1
+Vanderbilt University,University of Mississippi,1
+Vanderbilt University,University of New Hampshire,1
+"University of Illinois, Urbana Champaign",Southern Methodist University,1
+"University of Illinois, Urbana Champaign","Southern Illinois University, Carbondale",1
+"Washington University, St. Louis",Carnegie Mellon University,1
+"Washington University, St. Louis",Colorado State University,1
+"Washington University, St. Louis",Georgia Tech,1
+University of Georgia,North Carolina State University,1
+"University of Illinois, Chicago",Missouri University of Science and Technology,1
+"Washington University, St. Louis",Vanderbilt University,1
+"University of Illinois, Chicago",Louisiana State University,1
+Wayne State University,College of William and Mary,1
+"University of Idaho, Moscow","University of Nebraska, Lincoln",1
+University of Houston,Virginia Tech,1
+University of Houston,"University of Texas, Dallas",1
+University of Houston,"University of Massachusetts, Boston",1
+University of Houston,Michigan State University,1
+"University of Hawaii, Manoa",Rutgers University,1
+"University of Hawaii, Manoa",Kent State University,1
+University of Georgia,Texas Tech University,1
+University of Georgia,Georgia Tech,1
+"Washington University, St. Louis",Rochester Institute of Technology,1
+University of Florida,Virginia Tech,1
+University of Florida,"University of Texas, San Antonio",1
+Wayne State University,Nova Southeastern University,1
+University of Florida,Texas Tech University,1
+University of Florida,Oregon State University,1
+University of Florida,Ohio University,1
+University of Florida,Florida International University,1
+Wayne State University,Rochester Institute of Technology,1
+University of Florida,Colorado School of Mines,1
+University of Denver,University of New Hampshire,1
+University of Denver,Louisiana State University,1
+University of Delaware,University of Manitoba,1
+"University of Illinois, Chicago",Northwestern University,1
+"University of Illinois, Chicago","State University of New York, Binghamton",1
+"University of Illinois, Chicago",University of Georgia,1
+"University of Illinois, Chicago","University of Illinois, Urbana Champaign",1
+"University of Illinois, Urbana Champaign",McMaster University,1
+"Washington University, St. Louis",University of Iowa,1
+"Washington University, St. Louis","University of Kansas, Lawrence",1
+"Washington University, St. Louis",University of Kentucky,1
+"Washington University, St. Louis",University of Louisville,1
+"Washington University, St. Louis","University of Massachusetts, Amherst",1
+"University of Illinois, Urbana Champaign",Kansas State University,1
+"University of Illinois, Urbana Champaign",Iowa State University,1
+"Washington University, St. Louis",University of Mississippi,1
+"Washington University, St. Louis","University of Missouri, Columbia",1
+"Washington University, St. Louis","University of Nebraska, Lincoln",1
+"University of Illinois, Urbana Champaign",George Mason University,1
+"University of Illinois, Urbana Champaign",Florida International University,1
+"University of Illinois, Urbana Champaign",Drexel University,1
+"University of Illinois, Urbana Champaign",Dartmouth College,1
+"University of Illinois, Urbana Champaign",Dalhousie University,1
+"University of Illinois, Urbana Champaign",Brown University,1
+"Washington University, St. Louis","University of North Texas, Denton",1
+"Washington University, St. Louis","University of Texas, San Antonio",1
+"University of Illinois, Urbana Champaign",Auburn University,1
+"Washington University, St. Louis",University of Tulsa,1
+"University of Illinois, Urbana Champaign",Arizona State University,1
+"University of Illinois, Chicago",York University,1
+"University of Illinois, Chicago","University of Texas, San Antonio",1
+"University of Illinois, Chicago",University of South Carolina,1
+"University of Massachusetts, Amherst",Tufts University,1
+University of Washington,"Washington State University, Pullman",1
+"University of Massachusetts, Amherst","University of Arkansas, Fayetteville",1
+University of Rochester,"University of Massachusetts, Lowell",1
+University of Toronto,"University of Illinois, Chicago",1
+University of Pittsburgh,"University of North Carolina, Charlotte",1
+University of Pittsburgh,"University of Maryland, College Park",1
+University of Pittsburgh,University of Delaware,1
+University of Pittsburgh,"University of Colorado, Denver",1
+University of Pittsburgh,"University of Colorado, Boulder",1
+University of Pittsburgh,University of Central Florida,1
+University of Toronto,"University of Maryland, College Park",1
+University of Pittsburgh,University of Alberta,1
+University of Toronto,"University of Missouri, Kansas City",1
+University of Pittsburgh,UC Riverside,1
+University of Pittsburgh,UC Berkeley,1
+University of Pittsburgh,"State University of New York, Buffalo",1
+University of Pittsburgh,"State University of New York, Albany",1
+University of Pittsburgh,Pace University,1
+University of Pittsburgh,North Carolina State University,1
+University of Pittsburgh,Mississippi State University,1
+University of Toronto,University of New Hampshire,1
+University of Pittsburgh,Michigan State University,1
+University of Pittsburgh,Georgia State University,1
+University of Toronto,University of Oregon,1
+University of Pittsburgh,Florida State University,1
+University of Toronto,University of Pennsylvania,1
+University of Pittsburgh,Clemson University,1
+University of Toronto,"University of Texas, Austin",1
+University of Toronto,"University of Texas, Dallas",1
+University of Pennsylvania,Worcester Polytechnic Institute,1
+University of Toronto,University of Central Florida,1
+University of Pittsburgh,"University of Tennessee, Knoxville",1
+University of Pittsburgh,"University of Texas, San Antonio",1
+University of Rochester,Lehigh University,1
+University of Toronto,UC Davis,1
+University of Rochester,University of Florida,1
+University of Rochester,University of Alberta,1
+University of Toronto,UC Irvine,1
+University of Rochester,UC San Diego,1
+University of Rochester,"State University of New York, Albany",1
+University of Rochester,Simon Fraser University,1
+University of Rochester,Rutgers University,1
+University of Toronto,UC Riverside,1
+University of Rochester,Rensselaer Polytechnic Institute,1
+University of Rochester,Nova Southeastern University,1
+University of Toronto,UC Santa Cruz,1
+University of Rochester,Georgia Tech,1
+University of Pittsburgh,University of Virginia,1
+University of Rochester,Florida International University,1
+University of Rochester,"Concordia University, Montreal",1
+University of Toronto,UCLA,1
+University of Rochester,College of William and Mary,1
+University of Rochester,Brigham Young University,1
+University of Rochester,Boston University,1
+University of Rhode Island,Pace University,1
+University of Rhode Island,Northeastern University,1
+University of Regina,York University,1
+University of Regina,Simon Fraser University,1
+University of Regina,Memorial University of Newfoundland,1
+University of Pittsburgh,Western Michigan University,1
+University of Pennsylvania,"Washington University, St. Louis",1
+University of Pennsylvania,Vanderbilt University,1
+University of Pennsylvania,University of Western Ontario,1
+University of Utah,University of Victoria,1
+University of Arizona,University of Pittsburgh,1
+University of Utah,"University of Massachusetts, Amherst",1
+University of Pennsylvania,Rensselaer Polytechnic Institute,1
+University of Pennsylvania,Pennsylvania State University,1
+University of Utah,"University of Nebraska, Lincoln",1
+University of Pennsylvania,Pace University,1
+University of Utah,University of New Mexico,1
+University of Pennsylvania,New Jersey Institute of Technology,1
+University of Pennsylvania,Naval Postgraduate School,1
+University of Utah,"University of North Carolina, Chapel Hill",1
+University of Pennsylvania,Montana State University,1
+University of Pennsylvania,Lehigh University,1
+University of Pennsylvania,Harvard University,1
+University of Utah,University of Iowa,1
+University of Pennsylvania,George Washington University,1
+University of Utah,Virginia Tech,1
+University of Pennsylvania,Florida International University,1
+University of Utah,Yale University,1
+University of Victoria,Florida Institute of Technology,1
+University of Victoria,McGill University,1
+University of Pennsylvania,Drexel University,1
+University of Victoria,University of Alberta,1
+University of Pennsylvania,Dartmouth College,1
+University of Pennsylvania,Dalhousie University,1
+University of Victoria,University of Calgary,1
+University of Virginia,Carnegie Mellon University,1
+University of Pennsylvania,"State University of New York, Stony Brook",1
+University of Utah,University of Chicago,1
+University of Toronto,"University of Wisconsin, Milwaukee",1
+University of Utah,North Carolina State University,1
+University of Pennsylvania,University of Washington,1
+University of Pennsylvania,University of Southern California,1
+University of Toronto,"Washington State University, Pullman",1
+University of Pennsylvania,University of Rhode Island,1
+University of Pennsylvania,University of Ottawa,1
+University of Utah,Colorado State University,1
+University of Pennsylvania,University of New Mexico,1
+University of Pennsylvania,"University of Missouri, Columbia",1
+University of Utah,Michigan Technological University,1
+University of Pennsylvania,University of Michigan,1
+University of Pennsylvania,"University of Massachusetts, Lowell",1
+University of Pennsylvania,"University of Massachusetts, Amherst",1
+University of Pennsylvania,"University of Illinois, Urbana Champaign",1
+University of Pennsylvania,UC Davis,1
+University of Pennsylvania,"University of Illinois, Chicago",1
+University of Pennsylvania,University of Houston,1
+University of Pennsylvania,University of Florida,1
+University of Utah,Ohio State University,1
+University of Pennsylvania,"University of Colorado, Colorado Springs",1
+University of Pennsylvania,University of Bridgeport,1
+University of Utah,"State University of New York, Buffalo",1
+University of Pennsylvania,"University of Alabama, Birmingham",1
+University of Pennsylvania,UCLA,1
+University of Utah,UC Berkeley,1
+University of Utah,UC Davis,1
+University of Utah,University of Alberta,1
+University of Rochester,"University of Massachusetts, Amherst",1
+University of Rochester,University of Pittsburgh,1
+University of Pennsylvania,Brigham Young University,1
+University of Rochester,University of South Florida,1
+University of Southern California,"University of Texas, San Antonio",1
+"University of Texas, Austin",Tufts University,1
+University of Southern California,University of South Carolina,1
+University of Southern California,University of Oregon,1
+"University of Texas, Austin",UC Davis,1
+"University of Texas, Austin",UC Santa Cruz,1
+"University of Texas, Austin",University of Alberta,1
+"University of Texas, Austin","University of Arkansas, Fayetteville",1
+"University of Texas, Austin","University of Colorado, Colorado Springs",1
+"University of Texas, Austin",University of Denver,1
+"University of Texas, Austin",University of Florida,1
+University of Southern California,University of Michigan,1
+"University of Texas, Austin",University of Iowa,1
+University of Southern California,"University of Maryland, College Park",1
+"University of Texas, Austin",University of Kentucky,1
+"University of Texas, Austin","University of Maryland, College Park",1
+University of Southern California,"University of Kansas, Lawrence",1
+"University of Texas, Austin","University of Nevada, Las Vegas",1
+"University of Texas, Austin","University of Nevada, Reno",1
+"University of Texas, Austin","University of North Carolina, Charlotte",1
+"University of Texas, Austin",University of Saskatchewan,1
+University of Southern California,"University of Colorado, Boulder",1
+"University of Texas, Austin",University of South Carolina,1
+"University of Texas, Austin","University of Tennessee, Knoxville",1
+University of Southern California,University of Central Florida,1
+"University of Texas, Austin",University of Utah,1
+University of Southern California,UC Santa Barbara,1
+University of Southern California,University of Utah,1
+"University of Texas, Austin",Texas Tech University,1
+University of Southern Mississippi,"Southern Illinois University, Carbondale",1
+"University of Texas, Austin",DePaul University,1
+"University of Texas, Austin",Portland State University,1
+"University of Texas, Austin",Northwestern University,1
+"University of Texas, Austin",Purdue University,1
+"University of Texas, Austin",New Jersey Institute of Technology,1
+"University of Texas, Austin",Naval Postgraduate School,1
+"University of Texas, Austin","State University of New York, Buffalo",1
+"University of Texas, Austin",Michigan State University,1
+"University of Texas, Austin",McGill University,1
+"University of Texas, Austin",Kent State University,1
+"University of Texas, Austin",Kansas State University,1
+"University of Texas, Austin",Stevens Institute of Technology,1
+"University of Texas, Austin",Georgia Tech,1
+"University of Texas, Austin",Columbia University,1
+"University of Tennessee, Knoxville",Colorado School of Mines,1
+"University of Texas, Austin",Carnegie Mellon University,1
+"University of Texas, Austin",Brigham Young University,1
+"University of Texas, Austin",Brandeis University,1
+"University of Texas, Austin",Arizona State University,1
+"University of Texas, Arlington",Virginia Commonwealth University,1
+"University of Texas, Arlington","University of North Texas, Denton",1
+"University of Texas, Arlington","University of North Carolina, Charlotte",1
+"University of Texas, Austin",Texas A&M,1
+"University of Texas, Arlington",University of Bridgeport,1
+"University of Texas, Arlington",Missouri University of Science and Technology,1
+"University of Tennessee, Knoxville","University of Hawaii, Manoa",1
+"University of Tennessee, Knoxville",Mississippi State University,1
+"University of Texas, Austin",University of Washington,1
+"University of Texas, Austin",University of Waterloo,1
+University of Southern California,UC San Diego,1
+University of South Florida,Pennsylvania State University,1
+University of Toronto,Drexel University,1
+University of Southern California,Auburn University,1
+University of Toronto,Indiana University,1
+University of Toronto,MIT,1
+University of Toronto,Mississippi State University,1
+University of Toronto,Northeastern University,1
+University of Toronto,Princeton University,1
+University of South Florida,University of Notre Dame,1
+University of South Florida,"University of North Texas, Denton",1
+University of South Florida,"University of North Carolina, Charlotte",1
+University of South Florida,University of Delaware,1
+University of South Florida,"University of Arkansas, Little Rock",1
+University of South Florida,Mississippi State University,1
+University of Toronto,Dalhousie University,1
+University of South Florida,Georgia State University,1
+University of South Carolina,University of Georgia,1
+University of South Carolina,Clarkson University,1
+University of South Carolina,Arizona State University,1
+University of Toronto,"State University of New York, Buffalo",1
+University of Toronto,"State University of New York, Stony Brook",1
+University of Saskatchewan,"University of Texas, Dallas",1
+University of Saskatchewan,University of New Brunswick,1
+University of Rochester,University of Washington,1
+University of Rochester,University of Utah,1
+University of Rochester,"University of Texas, El Paso",1
+University of Rochester,University of Southern California,1
+University of Southern California,Brigham Young University,1
+University of Southern California,Brown University,1
+"University of Texas, Austin","University of Wisconsin, Madison",1
+University of Southern California,Stevens Institute of Technology,1
+"University of Texas, Austin",University of Wyoming,1
+"University of Texas, Austin","Washington State University, Pullman",1
+"University of Texas, Austin",Yale University,1
+University of Southern California,UC Riverside,1
+"University of Texas, Dallas",Clemson University,1
+"University of Texas, Dallas",North Dakota State University,1
+University of Southern California,UC Irvine,1
+"University of Texas, Dallas",University of Bridgeport,1
+"University of Texas, Dallas","University of Idaho, Moscow",1
+"University of Texas, Dallas","University of Nevada, Las Vegas",1
+"University of Texas, Dallas","University of Nevada, Reno",1
+"University of Texas, Dallas","University of Texas, Arlington",1
+University of Southern California,Southern Methodist University,1
+University of Southern California,Cornell University,1
+"University of Texas, Dallas","University of Texas, Austin",1
+"University of Texas, Dallas",Wright State University,1
+"University of Texas, El Paso",Texas Tech University,1
+"University of Texas, El Paso",University of Utah,1
+University of Southern California,New Jersey Institute of Technology,1
+"University of Texas, San Antonio",Wayne State University,1
+University of Toledo,Temple University,1
+University of Toronto,Arizona State University,1
+University of Southern California,George Mason University,1
+University of Toronto,Boston University,1
+University of Toronto,Case Western Reserve University,1
+University of Toronto,Cornell University,1
+University of Pennsylvania,Brown University,1
+University of Pennsylvania,Brandeis University,1
+"University of Massachusetts, Amherst",University of Central Florida,1
+"University of Minnesota, Minneapolis","University of North Texas, Denton",1
+University of Washington,Tufts University,1
+University of Washington,UC Berkeley,1
+"University of Minnesota, Minneapolis",MIT,1
+"University of Minnesota, Minneapolis",Kansas State University,1
+"University of Minnesota, Minneapolis",Iowa State University,1
+"University of Minnesota, Minneapolis",Illinois Institute of Technology,1
+"University of Minnesota, Minneapolis",Georgia Tech,1
+"University of Minnesota, Minneapolis",Georgia State University,1
+University of Washington,UC Davis,1
+"University of Minnesota, Minneapolis",George Washington University,1
+University of Washington,UC Riverside,1
+"University of Minnesota, Minneapolis",Florida State University,1
+University of Washington,UCLA,1
+"University of Minnesota, Minneapolis",Cornell University,1
+University of Washington,"University of Colorado, Boulder",1
+"University of Minnesota, Minneapolis",Colorado State University,1
+"University of Minnesota, Minneapolis",Auburn University,1
+University of Michigan,Western Michigan University,1
+University of Washington,"University of Illinois, Urbana Champaign",1
+University of Washington,"University of Maryland, College Park",1
+University of Michigan,University of Tulsa,1
+University of Michigan,University of Toronto,1
+University of Michigan,"University of Texas, El Paso",1
+University of Washington,"University of Massachusetts, Amherst",1
+University of Michigan,"University of Texas, Austin",1
+University of Washington,University of Michigan,1
+University of Michigan,University of South Carolina,1
+"University of Minnesota, Minneapolis",Missouri University of Science and Technology,1
+"University of Minnesota, Minneapolis",Naval Postgraduate School,1
+"University of Minnesota, Minneapolis",New Jersey Institute of Technology,1
+"University of Minnesota, Minneapolis",University of British Columbia,1
+"University of Minnesota, Minneapolis","University of Nebraska, Lincoln",1
+"University of Minnesota, Minneapolis",University of Michigan,1
+"University of Minnesota, Minneapolis",University of Iowa,1
+"University of Minnesota, Minneapolis","University of Illinois, Urbana Champaign",1
+University of Washington,Oregon Health and Science University,1
+University of Washington,Pennsylvania State University,1
+"University of Minnesota, Minneapolis","University of Hawaii, Manoa",1
+University of Washington,Rensselaer Polytechnic Institute,1
+University of Washington,Rochester Institute of Technology,1
+University of Washington,Rutgers University,1
+University of Washington,"State University of New York, Buffalo",1
+"University of Minnesota, Minneapolis",University of Denver,1
+"University of Minnesota, Minneapolis","University of Arkansas, Fayetteville",1
+"University of Minnesota, Minneapolis",North Carolina State University,1
+"University of Minnesota, Minneapolis","University of Alabama, Tuscaloosa",1
+"University of Minnesota, Minneapolis",UC Santa Barbara,1
+"University of Minnesota, Minneapolis",UC Riverside,1
+"University of Minnesota, Minneapolis","State University of New York, Buffalo",1
+"University of Minnesota, Minneapolis","State University of New York, Binghamton",1
+"University of Minnesota, Minneapolis",Rutgers University,1
+University of Washington,Temple University,1
+"University of Minnesota, Minneapolis",Purdue University,1
+"University of Minnesota, Minneapolis",Oklahoma State University,1
+"University of Minnesota, Minneapolis",Ohio State University,1
+University of Washington,Texas A&M,1
+"University of Minnesota, Minneapolis",North Dakota State University,1
+University of Michigan,University of Oregon,1
+University of Michigan,"University of North Carolina, Charlotte",1
+University of Michigan,University of New Mexico,1
+"University of Massachusetts, Amherst",University of Oklahoma,1
+University of Michigan,Arizona State University,1
+University of Miami,University of Denver,1
+University of Memphis,University of Notre Dame,1
+"University of Massachusetts, Amherst",York University,1
+University of Waterloo,Arizona State University,1
+University of Waterloo,Georgia Tech,1
+"University of Massachusetts, Amherst",University of Virginia,1
+University of Waterloo,Indiana University,1
+University of Waterloo,MIT,1
+"University of Massachusetts, Amherst",University of Tulsa,1
+"University of Massachusetts, Amherst",University of Rochester,1
+"University of Massachusetts, Amherst",University of Pittsburgh,1
+"University of Massachusetts, Amherst","University of Nebraska, Lincoln",1
+University of Michigan,College of William and Mary,1
+University of Waterloo,Old Dominion University,1
+University of Waterloo,Stanford University,1
+University of Waterloo,Toyota Technological Institute at Chicago,1
+"University of Massachusetts, Amherst","University of Kansas, Lawrence",1
+"University of Massachusetts, Amherst","University of Illinois, Chicago",1
+University of Waterloo,University of British Columbia,1
+"University of Massachusetts, Amherst",University of Florida,1
+University of Waterloo,University of Cincinnati,1
+"University of Massachusetts, Amherst",University of Connecticut,1
+"University of Massachusetts, Amherst","University of Colorado, Colorado Springs",1
+"University of Massachusetts, Amherst","University of Colorado, Boulder",1
+"University of Massachusetts, Amherst",University of Cincinnati,1
+"University of Texas, Austin",Polytechnic Institute of NYU,1
+University of Michigan,Cornell University,1
+University of Washington,"University of Minnesota, Minneapolis",1
+University of Washington,University of Pennsylvania,1
+University of Washington,"University of Missouri, Columbia",1
+University of Michigan,University of Louisville,1
+University of Washington,University of New Mexico,1
+University of Washington,"University of North Carolina, Chapel Hill",1
+University of Washington,University of Oregon,1
+University of Michigan,University of Connecticut,1
+University of Michigan,"University of Colorado, Boulder",1
+University of Michigan,University of Central Florida,1
+University of Michigan,Texas A&M,1
+University of Michigan,"State University of New York, Stony Brook",1
+University of Michigan,Stanford University,1
+University of Michigan,Princeton University,1
+University of Michigan,Polytechnic Institute of NYU,1
+University of Michigan,Duke University,1
+University of Michigan,Oregon Health and Science University,1
+University of Michigan,Northwestern University,1
+University of Washington,University of Rochester,1
+University of Michigan,Montana State University,1
+University of Michigan,Michigan Technological University,1
+University of Michigan,Michigan State University,1
+University of Michigan,Johns Hopkins University,1
+University of Michigan,Indiana University,1
+University of Washington,"University of Texas, Austin",1
+University of Washington,University of Virginia,1
+University of Michigan,George Mason University,1
+University of Michigan,Florida State University,1
+University of Washington,Oklahoma State University,1
+"University of Minnesota, Minneapolis",University of Oklahoma,1
+University of Pennsylvania,Boston University,1
+"University of Minnesota, Minneapolis",University of Pittsburgh,1
+University of Virginia,Texas A&M,1
+"University of North Carolina, Charlotte",University of Wyoming,1
+University of Virginia,"University of Alabama, Huntsville",1
+"University of North Carolina, Charlotte","University of Colorado, Colorado Springs",1
+"University of North Carolina, Charlotte",Tufts University,1
+University of Virginia,University of Alberta,1
+"University of North Carolina, Charlotte",New Mexico Institute of Mining and Technology,1
+"University of North Carolina, Charlotte",Clemson University,1
+"University of North Carolina, Chapel Hill",Wayne State University,1
+"University of North Carolina, Chapel Hill",Virginia Tech,1
+University of Virginia,University of Bridgeport,1
+"University of North Carolina, Chapel Hill","University of Texas, Dallas",1
+"University of North Carolina, Chapel Hill",University of Southern California,1
+University of Virginia,University of Florida,1
+University of Virginia,University of Maine,1
+"University of North Carolina, Chapel Hill",University of South Carolina,1
+University of Virginia,"University of Massachusetts, Amherst",1
+"University of North Carolina, Chapel Hill","University of Nebraska, Lincoln",1
+"University of North Carolina, Chapel Hill","University of Minnesota, Minneapolis",1
+"University of North Carolina, Chapel Hill","University of Maryland, College Park",1
+University of Virginia,University of Memphis,1
+University of Virginia,"University of Nebraska, Lincoln",1
+"University of North Carolina, Chapel Hill","University of Kansas, Lawrence",1
+"University of North Carolina, Chapel Hill","University of Hawaii, Manoa",1
+University of Virginia,"University of North Carolina, Chapel Hill",1
+"University of North Carolina, Chapel Hill",University of Georgia,1
+"University of North Carolina, Chapel Hill",University of Florida,1
+University of Virginia,Temple University,1
+University of Notre Dame,DePaul University,1
+University of Notre Dame,"State University of New York, Buffalo",1
+University of Oregon,University of Denver,1
+University of Virginia,Florida State University,1
+University of Ottawa,York University,1
+University of Ottawa,University of Victoria,1
+University of Ottawa,"University of Texas, Dallas",1
+University of Virginia,Iowa State University,1
+University of Ottawa,Indiana University,1
+University of Ottawa,Dalhousie University,1
+University of Ottawa,Arizona State University,1
+University of Oregon,"Washington State University, Pullman",1
+University of Virginia,North Carolina State University,1
+University of Oregon,"University of Texas, El Paso",1
+University of Virginia,Oklahoma State University,1
+University of Oregon,Simon Fraser University,1
+University of Notre Dame,"University of Alabama, Huntsville",1
+University of Oregon,Portland State University,1
+University of Oregon,McGill University,1
+University of Oregon,Indiana University,1
+University of Oregon,Dalhousie University,1
+University of Oklahoma,"Washington State University, Pullman",1
+University of Oklahoma,University of Tulsa,1
+University of Oklahoma,Kent State University,1
+University of Notre Dame,Wright State University,1
+University of Notre Dame,Vanderbilt University,1
+University of Notre Dame,"University of Texas, Dallas",1
+University of Notre Dame,University of New Mexico,1
+University of Notre Dame,University of Alberta,1
+University of Virginia,University of Pittsburgh,1
+University of Virginia,University of Utah,1
+"University of North Carolina, Chapel Hill",Texas A&M,1
+University of Montreal,"Concordia University, Montreal",1
+"University of Nebraska, Lincoln","University of Idaho, Moscow",1
+"University of Nebraska, Lincoln",Polytechnic Institute of NYU,1
+University of Washington,McGill University,1
+"University of Nebraska, Lincoln",Oklahoma State University,1
+"University of Nebraska, Lincoln",North Dakota State University,1
+"University of Nebraska, Lincoln",Carnegie Mellon University,1
+"University of Nebraska, Lincoln",Auburn University,1
+University of Montreal,York University,1
+University of Montreal,"University of North Texas, Denton",1
+University of Montreal,University of Alberta,1
+University of Montreal,Simon Fraser University,1
+University of Montreal,DePaul University,1
+University of Montreal,Carleton University,1
+"University of Nebraska, Lincoln","University of Missouri, Kansas City",1
+University of Washington,Missouri University of Science and Technology,1
+"University of Missouri, Kansas City",Western Michigan University,1
+"University of Missouri, Kansas City",Arizona State University,1
+University of Washington,Montana State University,1
+University of Washington,New Mexico State University,1
+"University of Missouri, Columbia",Clemson University,1
+"University of Minnesota, Minneapolis",Worcester Polytechnic Institute,1
+"University of Minnesota, Minneapolis",Virginia Tech,1
+"University of Minnesota, Minneapolis",University of Virginia,1
+University of Washington,North Carolina State University,1
+"University of Minnesota, Minneapolis","University of Texas, Dallas",1
+"University of Minnesota, Minneapolis",University of South Carolina,1
+"University of Nebraska, Lincoln","University of Kansas, Lawrence",1
+University of Washington,Iowa State University,1
+"University of North Carolina, Chapel Hill",Stanford University,1
+University of New Mexico,University of South Carolina,1
+University of Virginia,"Washington State University, Pullman",1
+"University of North Carolina, Chapel Hill",Old Dominion University,1
+University of Virginia,"Washington University, St. Louis",1
+"University of North Carolina, Chapel Hill",Indiana University,1
+"University of North Carolina, Chapel Hill",Georgia Tech,1
+University of Washington,Arizona State University,1
+"University of North Carolina, Chapel Hill",Columbia University,1
+University of Washington,Case Western Reserve University,1
+"University of North Carolina, Chapel Hill",Case Western Reserve University,1
+University of New Mexico,"University of Tennessee, Knoxville",1
+University of New Mexico,University of Southern Mississippi,1
+University of Washington,Columbia University,1
+University of New Mexico,"University of Nebraska, Omaha",1
+University of Washington,Harvard University,1
+University of New Mexico,"University of Idaho, Moscow",1
+University of New Mexico,"University of Colorado, Boulder",1
+University of New Mexico,Southern Methodist University,1
+University of New Mexico,Michigan Technological University,1
+University of New Mexico,Carleton University,1
+University of New Hampshire,University of Mississippi,1
+University of New Brunswick,"University of Missouri, Columbia",1
+University of Washington,DePaul University,1
+University of New Brunswick,University of Manitoba,1
+"University of Nevada, Las Vegas",New Mexico Institute of Mining and Technology,1
+University of Washington,Duke University,1
+"University of Nebraska, Lincoln","University of Nevada, Las Vegas",1
+University of Arizona,"University of Texas, San Antonio",1
+Arizona State University,Clemson University,1
+University of Arizona,University of New Mexico,1
+Iowa State University,Texas Tech University,1
+Indiana University,DePaul University,1
+Indiana University,Northeastern University,1
+Indiana University,"State University of New York, Buffalo",1
+Indiana University,Tufts University,1
+Indiana University,"University of Arkansas, Fayetteville",1
+Indiana University,University of British Columbia,1
+Indiana University,University of Cincinnati,1
+Indiana University,"University of Colorado, Boulder",1
+Indiana University,University of Louisville,1
+Indiana University,University of Michigan,1
+Indiana University,"University of Nevada, Reno",1
+Iowa State University,DePaul University,1
+Iowa State University,Georgia State University,1
+Iowa State University,North Dakota State University,1
+Iowa State University,Ohio University,1
+Indiana University,Claremont Graduate University,1
+Illinois Institute of Technology,University of Southern Mississippi,1
+Illinois Institute of Technology,"University of North Carolina, Charlotte",1
+Harvard University,"University of Texas, Austin",1
+Harvard University,University of Maine,1
+Harvard University,"University of Massachusetts, Lowell",1
+Harvard University,University of New Hampshire,1
+Harvard University,University of Oregon,1
+Harvard University,University of Pennsylvania,1
+Harvard University,University of Pittsburgh,1
+Harvard University,University of Virginia,1
+Illinois Institute of Technology,University of New Hampshire,1
+Harvard University,"Washington University, St. Louis",1
+Illinois Institute of Technology,DePaul University,1
+Illinois Institute of Technology,Georgia State University,1
+Illinois Institute of Technology,Pace University,1
+Illinois Institute of Technology,Texas Tech University,1
+Illinois Institute of Technology,"University of Nebraska, Lincoln",1
+Iowa State University,"State University of New York, Binghamton",1
+Iowa State University,"University of Nebraska, Lincoln",1
+Harvard University,"University of Illinois, Chicago",1
+Iowa State University,"University of Texas, El Paso",1
+Johns Hopkins University,"Washington University, St. Louis",1
+Kansas State University,Brigham Young University,1
+Kansas State University,Memorial University of Newfoundland,1
+Kansas State University,Mississippi State University,1
+Kansas State University,Rochester Institute of Technology,1
+Kansas State University,"University of Kansas, Lawrence",1
+Kansas State University,"University of Nebraska, Omaha",1
+Kansas State University,University of Tulsa,1
+Kansas State University,University of Waterloo,1
+Kent State University,Wayne State University,1
+Lehigh University,Dalhousie University,1
+Lehigh University,Drexel University,1
+Lehigh University,"University of Louisiana, Lafayette",1
+Lehigh University,University of Southern Mississippi,1
+Louisiana State University,Georgia State University,1
+Johns Hopkins University,"University of Wisconsin, Milwaukee",1
+Johns Hopkins University,"University of Texas, Austin",1
+Johns Hopkins University,University of Arizona,1
+Johns Hopkins University,Michigan Technological University,1
+Iowa State University,University of Tulsa,1
+Iowa State University,University of Wyoming,1
+Iowa State University,Utah State University,1
+Iowa State University,"Washington State University, Pullman",1
+Johns Hopkins University,Carnegie Mellon University,1
+Johns Hopkins University,Georgia Tech,1
+Johns Hopkins University,Montana State University,1
+Johns Hopkins University,UC Santa Barbara,1
+Johns Hopkins University,Naval Postgraduate School,1
+Johns Hopkins University,New Jersey Institute of Technology,1
+Johns Hopkins University,Rice University,1
+Johns Hopkins University,"State University of New York, Binghamton",1
+Johns Hopkins University,"State University of New York, Buffalo",1
+Johns Hopkins University,Tufts University,1
+Harvard University,"University of Illinois, Urbana Champaign",1
+Harvard University,University of Florida,1
+George Mason University,Georgia State University,1
+Georgia Tech,UC Berkeley,1
+Georgia Tech,Boston University,1
+Georgia Tech,Colorado School of Mines,1
+Georgia Tech,Drexel University,1
+Georgia Tech,Florida International University,1
+Georgia Tech,George Mason University,1
+Georgia Tech,Georgia State University,1
+Georgia Tech,Illinois Institute of Technology,1
+Georgia Tech,Indiana University,1
+Georgia Tech,Louisiana State University,1
+Georgia Tech,Naval Postgraduate School,1
+Georgia Tech,Purdue University,1
+Georgia Tech,Rensselaer Polytechnic Institute,1
+Georgia Tech,Rice University,1
+Georgia Tech,Rutgers University,1
+Georgia Tech,Simon Fraser University,1
+Georgia Tech,Arizona State University,1
+George Washington University,Worcester Polytechnic Institute,1
+George Washington University,Virginia Tech,1
+George Mason University,University of Kentucky,1
+George Mason University,Naval Postgraduate School,1
+George Mason University,New Jersey Institute of Technology,1
+George Mason University,North Carolina State University,1
+George Mason University,Pennsylvania State University,1
+George Mason University,Texas Tech University,1
+George Mason University,"University of Illinois, Urbana Champaign",1
+George Mason University,University of Notre Dame,1
+George Washington University,University of Kentucky,1
+George Mason University,University of South Carolina,1
+George Washington University,Catholic University of America,1
+George Washington University,George Mason University,1
+George Washington University,Naval Postgraduate School,1
+George Washington University,Rochester Institute of Technology,1
+George Washington University,"University of Arkansas, Fayetteville",1
+Georgia Tech,"State University of New York, Stony Brook",1
+Georgia Tech,UC Riverside,1
+Harvard University,University of Connecticut,1
+Georgia Tech,UC Santa Barbara,1
+Harvard University,Boston University,1
+Harvard University,Dartmouth College,1
+Harvard University,DePaul University,1
+Harvard University,Drexel University,1
+Harvard University,Georgia Tech,1
+Harvard University,Indiana University,1
+Harvard University,Louisiana State University,1
+Harvard University,New Jersey Institute of Technology,1
+Harvard University,Princeton University,1
+Harvard University,Rensselaer Polytechnic Institute,1
+Harvard University,Simon Fraser University,1
+Harvard University,"State University of New York, Buffalo",1
+Harvard University,Tufts University,1
+Harvard University,UC Davis,1
+Harvard University,UCLA,1
+Harvard University,Arizona State University,1
+Georgia Tech,Wright State University,1
+Georgia Tech,University of Waterloo,1
+Georgia Tech,"University of Nebraska, Lincoln",1
+Georgia Tech,"University of Alabama, Tuscaloosa",1
+Georgia Tech,University of Connecticut,1
+Georgia Tech,"University of Illinois, Urbana Champaign",1
+Georgia Tech,University of Kentucky,1
+Georgia Tech,University of Maine,1
+Georgia Tech,"University of Maryland, College Park",1
+Georgia Tech,"University of North Carolina, Chapel Hill",1
+Georgia Tech,University of Washington,1
+Georgia Tech,"University of North Carolina, Charlotte",1
+Georgia Tech,University of Southern California,1
+Georgia Tech,"University of Tennessee, Knoxville",1
+Georgia Tech,"University of Texas, Arlington",1
+Georgia Tech,University of Toronto,1
+Georgia Tech,University of Utah,1
+Louisiana State University,"Southern Illinois University, Carbondale",1
+Louisiana State University,Texas Tech University,1
+Louisiana State University,"University of Alabama, Tuscaloosa",1
+North Carolina State University,Texas A&M,1
+New York University,Pennsylvania State University,1
+New York University,Polytechnic Institute of NYU,1
+New York University,Rensselaer Polytechnic Institute,1
+New York University,"State University of New York, Stony Brook",1
+New York University,Stevens Institute of Technology,1
+New York University,Texas A&M,1
+New York University,UC Davis,1
+New York University,UCLA,1
+New York University,"University of Colorado, Boulder",1
+New York University,"University of North Carolina, Chapel Hill",1
+New York University,University of Regina,1
+New York University,"University of Texas, El Paso",1
+New York University,University of Toronto,1
+New York University,University of Western Ontario,1
+North Carolina State University,Florida Institute of Technology,1
+New York University,Pace University,1
+New York University,Oregon Health and Science University,1
+New York University,Old Dominion University,1
+New Jersey Institute of Technology,"University of Missouri, Kansas City",1
+Missouri University of Science and Technology,University of Western Ontario,1
+Missouri University of Science and Technology,"Washington University, St. Louis",1
+Montana State University,Utah State University,1
+Naval Postgraduate School,Mississippi State University,1
+New Jersey Institute of Technology,Mississippi State University,1
+New Jersey Institute of Technology,"University of Maryland, Baltimore County",1
+New Mexico State University,New Mexico Institute of Mining and Technology,1
+New York University,Florida State University,1
+New Mexico State University,North Dakota State University,1
+New Mexico State University,"University of Nebraska, Omaha",1
+New Mexico State University,"University of Texas, El Paso",1
+New York University,Brown University,1
+New York University,CUNY Graduate Center,1
+New York University,Columbia University,1
+North Carolina State University,George Washington University,1
+North Carolina State University,UC Santa Cruz,1
+Louisiana State University,University of Georgia,1
+North Carolina State University,"University of Arkansas, Fayetteville",1
+Northwestern University,University of Central Florida,1
+Northwestern University,University of Connecticut,1
+Northwestern University,"University of North Texas, Denton",1
+Northwestern University,University of Oklahoma,1
+Northwestern University,University of Pittsburgh,1
+Northwestern University,"University of Texas, Dallas",1
+Northwestern University,University of Victoria,1
+Northwestern University,"Washington State University, Pullman",1
+Northwestern University,"Washington University, St. Louis",1
+Northwestern University,Western Michigan University,1
+Nova Southeastern University,Rochester Institute of Technology,1
+Oakland University (Michigan),DePaul University,1
+Oakland University (Michigan),Illinois Institute of Technology,1
+Ohio State University,Arizona State University,1
+Ohio State University,Carnegie Mellon University,1
+Northwestern University,Temple University,1
+Northwestern University,Stevens Institute of Technology,1
+Northwestern University,Southern Methodist University,1
+Northwestern University,George Washington University,1
+North Carolina State University,"University of Maryland, Baltimore County",1
+North Carolina State University,"University of Nebraska, Lincoln",1
+North Carolina State University,University of South Florida,1
+North Carolina State University,"University of Tennessee, Knoxville",1
+North Dakota State University,"University of Arkansas, Fayetteville",1
+Northwestern University,Arizona State University,1
+Northwestern University,Georgia Tech,1
+Northwestern University,Pennsylvania State University,1
+Northwestern University,Illinois Institute of Technology,1
+Northwestern University,Iowa State University,1
+Northwestern University,Johns Hopkins University,1
+Northwestern University,Michigan State University,1
+Northwestern University,North Dakota State University,1
+Northwestern University,Northeastern University,1
+Missouri University of Science and Technology,Oklahoma State University,1
+Missouri University of Science and Technology,Catholic University of America,1
+Mississippi State University,"University of Alabama, Birmingham",1
+Mississippi State University,Nova Southeastern University,1
+MIT,"State University of New York, Stony Brook",1
+MIT,UC Riverside,1
+MIT,University of Arizona,1
+MIT,"University of Arkansas, Little Rock",1
+MIT,University of Connecticut,1
+MIT,"University of Illinois, Chicago",1
+MIT,"University of Nebraska, Lincoln",1
+MIT,University of New Mexico,1
+MIT,University of Oregon,1
+MIT,University of Pittsburgh,1
+MIT,University of Saskatchewan,1
+MIT,University of Toledo,1
+MIT,University of Utah,1
+MIT,University of Waterloo,1
+MIT,University of Wyoming,1
+MIT,Polytechnic Institute of NYU,1
+MIT,Oregon Health and Science University,1
+MIT,North Carolina State University,1
+Louisiana State University,Virginia Tech,1
+Louisiana State University,University of Memphis,1
+Louisiana State University,"University of Nebraska, Omaha",1
+Louisiana State University,University of Oklahoma,1
+Louisiana State University,University of Pittsburgh,1
+Louisiana State University,University of Southern Mississippi,1
+Louisiana State University,Utah State University,1
+MIT,Brigham Young University,1
+MIT,Louisiana State University,1
+MIT,Case Western Reserve University,1
+MIT,Dalhousie University,1
+MIT,DePaul University,1
+MIT,George Washington University,1
+MIT,Johns Hopkins University,1
+MIT,Kent State University,1
+MIT,York University,1
+McGill University,Clarkson University,1
+McGill University,"Concordia University, Montreal",1
+Michigan State University,University of Oklahoma,1
+Michigan State University,Missouri University of Science and Technology,1
+Michigan State University,Purdue University,1
+Michigan State University,"Southern Illinois University, Carbondale",1
+Michigan State University,"University of Louisiana, Lafayette",1
+Michigan State University,University of Memphis,1
+Michigan State University,University of Notre Dame,1
+Michigan State University,University of Pittsburgh,1
+Michigan State University,Illinois Institute of Technology,1
+Michigan State University,University of South Carolina,1
+Michigan State University,University of Wyoming,1
+Michigan State University,Vanderbilt University,1
+Michigan State University,Wayne State University,1
+Mississippi State University,Louisiana State University,1
+Mississippi State University,North Dakota State University,1
+Michigan State University,Michigan Technological University,1
+Michigan State University,Florida International University,1
+McGill University,McMaster University,1
+McGill University,University of Montreal,1
+McGill University,Memorial University of Newfoundland,1
+McGill University,Montana State University,1
+McGill University,Ohio State University,1
+McGill University,Old Dominion University,1
+McGill University,"University of Alabama, Tuscaloosa",1
+McGill University,University of Alberta,1
+McGill University,University of New Brunswick,1
+Michigan State University,Colorado State University,1
+McGill University,York University,1
+McMaster University,Florida Institute of Technology,1
+McMaster University,Memorial University of Newfoundland,1
+McMaster University,University of Montreal,1
+Memorial University of Newfoundland,University of Regina,1
+Michigan State University,Clemson University,1
+George Mason University,Illinois Institute of Technology,1
+George Mason University,Arizona State University,1
+University of Arizona,"University of Missouri, Kansas City",1
+Carnegie Mellon University,UC Santa Cruz,1
+Carnegie Mellon University,Brown University,1
+Carnegie Mellon University,Cornell University,1
+Carnegie Mellon University,Drexel University,1
+Carnegie Mellon University,Iowa State University,1
+Carnegie Mellon University,Kent State University,1
+Carnegie Mellon University,Michigan State University,1
+Carnegie Mellon University,New York University,1
+Carnegie Mellon University,Northeastern University,1
+Carnegie Mellon University,Nova Southeastern University,1
+Carnegie Mellon University,Ohio State University,1
+Carnegie Mellon University,Pennsylvania State University,1
+Carnegie Mellon University,Purdue University,1
+Carnegie Mellon University,Rice University,1
+Carnegie Mellon University,Rochester Institute of Technology,1
+Carnegie Mellon University,Stevens Institute of Technology,1
+Carnegie Mellon University,Boston University,1
+Carleton University,University of Ottawa,1
+Carleton University,Queens University,1
+California Institute of Technology,"University of Illinois, Urbana Champaign",1
+California Institute of Technology,Oregon Health and Science University,1
+California Institute of Technology,Rensselaer Polytechnic Institute,1
+California Institute of Technology,Texas A&M,1
+California Institute of Technology,UC Berkeley,1
+California Institute of Technology,UCLA,1
+California Institute of Technology,"University of Alabama, Birmingham",1
+California Institute of Technology,University of Southern California,1
+Carleton University,Memorial University of Newfoundland,1
+California Institute of Technology,"University of Texas, Austin",1
+California Institute of Technology,University of Toronto,1
+California Institute of Technology,University of Washington,1
+California Institute of Technology,Vanderbilt University,1
+California Institute of Technology,Virginia Tech,1
+California Institute of Technology,Wayne State University,1
+Carnegie Mellon University,Syracuse University,1
+Carnegie Mellon University,UCLA,1
+California Institute of Technology,New York University,1
+Carnegie Mellon University,University of Arizona,1
+Case Western Reserve University,George Mason University,1
+Case Western Reserve University,Georgia Tech,1
+Case Western Reserve University,Indiana University,1
+Case Western Reserve University,Kent State University,1
+Case Western Reserve University,Naval Postgraduate School,1
+Case Western Reserve University,Ohio University,1
+Case Western Reserve University,"Southern Illinois University, Carbondale",1
+Case Western Reserve University,University of Alberta,1
+Case Western Reserve University,"University of Louisiana, Lafayette",1
+Case Western Reserve University,"University of Missouri, Kansas City",1
+Case Western Reserve University,Virginia Tech,1
+Case Western Reserve University,Wayne State University,1
+Clarkson University,University of Bridgeport,1
+Clarkson University,University of Georgia,1
+Clemson University,Florida International University,1
+Case Western Reserve University,Florida International University,1
+Case Western Reserve University,Florida Atlantic University,1
+Carnegie Mellon University,York University,1
+Carnegie Mellon University,University of Notre Dame,1
+Carnegie Mellon University,University of Central Florida,1
+Carnegie Mellon University,University of Chicago,1
+Carnegie Mellon University,"University of Maryland, College Park",1
+Carnegie Mellon University,University of Miami,1
+Carnegie Mellon University,University of New Mexico,1
+Carnegie Mellon University,"University of North Carolina, Charlotte",1
+Carnegie Mellon University,University of Oregon,1
+Carnegie Mellon University,Yale University,1
+Carnegie Mellon University,University of Pittsburgh,1
+Carnegie Mellon University,University of Rhode Island,1
+Carnegie Mellon University,University of Utah,1
+Carnegie Mellon University,University of Virginia,1
+Carnegie Mellon University,Vanderbilt University,1
+Carnegie Mellon University,Wayne State University,1
+California Institute of Technology,Ohio State University,1
+California Institute of Technology,Iowa State University,1
+Florida State University,Vanderbilt University,1
+Brown University,Indiana University,1
+Boston University,Purdue University,1
+Boston University,Tufts University,1
+Boston University,"University of Texas, Arlington",1
+Boston University,University of Utah,1
+Boston University,"University of Wisconsin, Madison",1
+Brandeis University,"Concordia University, Montreal",1
+Brandeis University,Rochester Institute of Technology,1
+Brandeis University,University of Montreal,1
+Brigham Young University,Utah State University,1
+Brown University,Brigham Young University,1
+Brown University,Carnegie Mellon University,1
+Brown University,Clemson University,1
+Brown University,Colorado State University,1
+Brown University,Columbia University,1
+Brown University,DePaul University,1
+Boston University,Northeastern University,1
+Boston University,George Washington University,1
+Boston University,Drexel University,1
+Arizona State University,"University of Wisconsin, Milwaukee",1
+Arizona State University,New Mexico State University,1
+Arizona State University,Old Dominion University,1
+Arizona State University,"State University of New York, Binghamton",1
+Arizona State University,Syracuse University,1
+Arizona State University,UC Davis,1
+Arizona State University,"University of Arkansas, Little Rock",1
+Auburn University,Memorial University of Newfoundland,1
+Boston University,Clarkson University,1
+Auburn University,Montana State University,1
+Auburn University,Oregon State University,1
+Auburn University,University of Louisville,1
+Auburn University,University of Memphis,1
+Auburn University,"University of North Carolina, Charlotte",1
+Auburn University,University of Southern Mississippi,1
+Brown University,Georgia Tech,1
+Brown University,Johns Hopkins University,1
+California Institute of Technology,Indiana University,1
+Brown University,Louisiana State University,1
+Brown University,University of Pittsburgh,1
+Brown University,University of Rhode Island,1
+Brown University,University of Rochester,1
+Brown University,"University of Texas, Austin",1
+Brown University,University of Toronto,1
+Brown University,University of Utah,1
+Brown University,University of Virginia,1
+Brown University,University of Waterloo,1
+CUNY Graduate Center,Texas A&M,1
+CUNY Graduate Center,University of Connecticut,1
+California Institute of Technology,Brown University,1
+California Institute of Technology,Case Western Reserve University,1
+California Institute of Technology,"Concordia University, Montreal",1
+California Institute of Technology,Duke University,1
+California Institute of Technology,Georgia Tech,1
+Brown University,University of Notre Dame,1
+Brown University,University of New Hampshire,1
+Brown University,"University of Nebraska, Lincoln",1
+Brown University,Oregon State University,1
+Brown University,McGill University,1
+Brown University,Mississippi State University,1
+Brown University,Naval Postgraduate School,1
+Brown University,North Dakota State University,1
+Brown University,Northeastern University,1
+Brown University,Oregon Health and Science University,1
+Brown University,Polytechnic Institute of NYU,1
+Brown University,"University of Minnesota, Minneapolis",1
+Brown University,Rutgers University,1
+Brown University,"State University of New York, Albany",1
+Brown University,UC Santa Cruz,1
+Brown University,University of Central Florida,1
+Brown University,"University of Colorado, Boulder",1
+Brown University,University of Delaware,1
+Clemson University,"University of Alabama, Tuscaloosa",1
+Clemson University,"University of Nebraska, Lincoln",1
+Clemson University,"University of Nevada, Reno",1
+Dartmouth College,University of Toronto,1
+Cornell University,University of Toronto,1
+Cornell University,University of Washington,1
+Cornell University,University of Wyoming,1
+Cornell University,Virginia Tech,1
+Cornell University,"Washington State University, Pullman",1
+Cornell University,Wayne State University,1
+Dalhousie University,"Concordia University, Montreal",1
+Dalhousie University,"University of Nevada, Reno",1
+Dartmouth College,Carnegie Mellon University,1
+Dartmouth College,College of William and Mary,1
+Dartmouth College,Columbia University,1
+Dartmouth College,Florida International University,1
+Dartmouth College,Michigan State University,1
+Dartmouth College,"State University of New York, Albany",1
+Dartmouth College,"University of Massachusetts, Lowell",1
+Cornell University,"University of Texas, El Paso",1
+Cornell University,University of Southern California,1
+Cornell University,University of New Mexico,1
+Cornell University,"University of Alabama, Birmingham",1
+Cornell University,Rice University,1
+Cornell University,Rochester Institute of Technology,1
+Cornell University,Simon Fraser University,1
+Cornell University,"State University of New York, Albany",1
+Cornell University,UC San Diego,1
+Cornell University,UC Santa Barbara,1
+Cornell University,University of British Columbia,1
+Cornell University,University of Montreal,1
+Cornell University,"University of Colorado, Boulder",1
+Cornell University,"University of Illinois, Chicago",1
+Cornell University,University of Iowa,1
+Cornell University,"University of Maryland, Baltimore County",1
+Cornell University,University of Michigan,1
+Cornell University,"University of Minnesota, Minneapolis",1
+Dartmouth College,"University of Texas, Arlington",1
+DePaul University,Pace University,1
+Clemson University,"University of North Carolina, Chapel Hill",1
+Drexel University,Temple University,1
+Duke University,Vanderbilt University,1
+Duke University,Virginia Commonwealth University,1
+Duke University,Worcester Polytechnic Institute,1
+Florida Atlantic University,Florida Institute of Technology,1
+Florida Atlantic University,Mississippi State University,1
+Florida Atlantic University,Temple University,1
+Florida International University,Colorado School of Mines,1
+Florida International University,North Dakota State University,1
+Florida International University,"University of Alabama, Birmingham",1
+Florida International University,University of Bridgeport,1
+Florida State University,North Carolina State University,1
+Florida State University,Old Dominion University,1
+Florida State University,"University of Kansas, Lawrence",1
+Florida State University,University of South Florida,1
+Florida State University,"University of Texas, San Antonio",1
+Duke University,University of Utah,1
+Duke University,"University of Tennessee, Knoxville",1
+Duke University,University of South Carolina,1
+Duke University,"University of Arkansas, Fayetteville",1
+Drexel University,Yale University,1
+Duke University,Dartmouth College,1
+Duke University,Indiana University,1
+Duke University,Michigan State University,1
+Duke University,Ohio State University,1
+Duke University,UC Riverside,1
+Duke University,University of Connecticut,1
+Duke University,"University of North Carolina, Charlotte",1
+Duke University,University of Denver,1
+Duke University,"University of Hawaii, Manoa",1
+Duke University,University of Iowa,1
+Duke University,"University of Maryland, College Park",1
+Duke University,"University of Missouri, Kansas City",1
+Duke University,"University of North Carolina, Chapel Hill",1
+Cornell University,Princeton University,1
+Cornell University,Portland State University,1
+Cornell University,Pace University,1
+Cornell University,Old Dominion University,1
+Colorado State University,"University of North Texas, Denton",1
+Colorado State University,Utah State University,1
+Columbia University,Arizona State University,1
+Columbia University,Drexel University,1
+Columbia University,Florida Atlantic University,1
+Columbia University,Florida Institute of Technology,1
+Columbia University,MIT,1
+Columbia University,New York University,1
+Columbia University,Northeastern University,1
+Columbia University,Nova Southeastern University,1
+Columbia University,Pace University,1
+Columbia University,Pennsylvania State University,1
+Columbia University,Rensselaer Polytechnic Institute,1
+Columbia University,Rutgers University,1
+Columbia University,"State University of New York, Stony Brook",1
+Colorado State University,"University of Louisiana, Lafayette",1
+Colorado State University,"University of Hawaii, Manoa",1
+Colorado State University,University of Denver,1
+College of William and Mary,"University of Arkansas, Little Rock",1
+Clemson University,Vanderbilt University,1
+College of William and Mary,Colorado School of Mines,1
+College of William and Mary,Iowa State University,1
+College of William and Mary,Michigan State University,1
+College of William and Mary,Michigan Technological University,1
+College of William and Mary,Syracuse University,1
+College of William and Mary,"University of Colorado, Colorado Springs",1
+Colorado State University,"University of Arkansas, Little Rock",1
+College of William and Mary,"University of Massachusetts, Boston",1
+College of William and Mary,"University of Nebraska, Lincoln",1
+College of William and Mary,Virginia Commonwealth University,1
+Colorado State University,Montana State University,1
+Colorado State University,Oakland University (Michigan),1
+Colorado State University,Texas Tech University,1
+Columbia University,Texas A&M,1
+Columbia University,UC Riverside,1
+Columbia University,UC Santa Barbara,1
+Cornell University,Harvard University,1
+Cornell University,Carleton University,1
+Cornell University,DePaul University,1
+Cornell University,Florida Institute of Technology,1
+Cornell University,Florida International University,1
+Cornell University,Florida State University,1
+Cornell University,George Washington University,1
+Cornell University,Illinois Institute of Technology,1
+"Concordia University, Montreal",Wayne State University,1
+Cornell University,Johns Hopkins University,1
+Cornell University,MIT,1
+Cornell University,McGill University,1
+Cornell University,McMaster University,1
+Cornell University,New Jersey Institute of Technology,1
+Cornell University,New York University,1
+Cornell University,Auburn University,1
+"Concordia University, Montreal",University of Victoria,1
+Columbia University,UCLA,1
+Columbia University,"University of Minnesota, Minneapolis",1
+Columbia University,University of Calgary,1
+Columbia University,University of Chicago,1
+Columbia University,"University of Colorado, Colorado Springs",1
+Columbia University,"University of Maryland, College Park",1
+Columbia University,"University of Massachusetts, Amherst",1
+Columbia University,University of Michigan,1
+Columbia University,"University of North Carolina, Chapel Hill",1
+"Concordia University, Montreal","University of North Texas, Denton",1
+Columbia University,"University of Texas, Arlington",1
+Columbia University,"University of Texas, Austin",1
+Columbia University,"University of Wisconsin, Milwaukee",1
+Columbia University,Worcester Polytechnic Institute,1
+"Concordia University, Montreal",DePaul University,1
+"Concordia University, Montreal",Kansas State University,1
+Ohio State University,"Concordia University, Montreal",1
+Ohio State University,Dartmouth College,1
+Ohio State University,Florida State University,1
+Texas A&M,"Washington State University, Pullman",1
+Texas A&M,Ohio State University,1
+Texas A&M,Oklahoma State University,1
+Texas A&M,Southern Methodist University,1
+Texas A&M,Texas Tech University,1
+Texas A&M,"University of Alabama, Tuscaloosa",1
+Texas A&M,University of Central Florida,1
+Texas A&M,University of Georgia,1
+Texas A&M,"University of Louisiana, Lafayette",1
+Texas A&M,"University of Massachusetts, Lowell",1
+Texas A&M,"University of Nebraska, Lincoln",1
+Texas A&M,University of New Hampshire,1
+Texas A&M,University of New Mexico,1
+Texas A&M,"University of North Carolina, Charlotte",1
+Texas A&M,University of Oklahoma,1
+Texas A&M,"University of Tennessee, Knoxville",1
+Texas A&M,Oakland University (Michigan),1
+Texas A&M,New Mexico State University,1
+Texas A&M,Missouri University of Science and Technology,1
+Temple University,Indiana University,1
+Syracuse University,"University of Colorado, Denver",1
+Syracuse University,University of Georgia,1
+Syracuse University,University of Iowa,1
+Syracuse University,"University of Maryland, College Park",1
+Syracuse University,"University of Texas, Arlington",1
+Syracuse University,Wright State University,1
+Temple University,Long Island University,1
+Texas A&M,Mississippi State University,1
+Texas A&M,Clemson University,1
+Texas A&M,DePaul University,1
+Texas A&M,George Mason University,1
+Texas A&M,George Washington University,1
+Texas A&M,Iowa State University,1
+Texas A&M,Louisiana State University,1
+Texas A&M,"University of Texas, San Antonio",1
+Texas Tech University,"University of Alabama, Tuscaloosa",1
+Syracuse University,Santa Clara University,1
+Texas Tech University,University of South Florida,1
+UC Berkeley,Southern Methodist University,1
+UC Berkeley,Toyota Technological Institute at Chicago,1
+UC Berkeley,UC Santa Cruz,1
+UC Berkeley,University of Arizona,1
+UC Berkeley,University of Delaware,1
+UC Berkeley,"University of Hawaii, Manoa",1
+UC Berkeley,"University of Illinois, Chicago",1
+UC Berkeley,"University of Maryland, Baltimore County",1
+Arizona State University,Indiana University,1
+UC Berkeley,University of Rochester,1
+UC Berkeley,University of Toronto,1
+UC Berkeley,University of Utah,1
+UC Berkeley,Yale University,1
+UC Davis,Florida State University,1
+UC Davis,Iowa State University,1
+UC Berkeley,Simon Fraser University,1
+UC Berkeley,Rutgers University,1
+UC Berkeley,Rensselaer Polytechnic Institute,1
+UC Berkeley,George Mason University,1
+Tufts University,Northwestern University,1
+UC Berkeley,Arizona State University,1
+UC Berkeley,Boston University,1
+UC Berkeley,Clarkson University,1
+UC Berkeley,DePaul University,1
+UC Berkeley,Drexel University,1
+UC Berkeley,George Washington University,1
+UC Berkeley,Portland State University,1
+UC Berkeley,Illinois Institute of Technology,1
+UC Berkeley,Louisiana State University,1
+UC Berkeley,North Dakota State University,1
+UC Berkeley,Northwestern University,1
+UC Berkeley,Ohio State University,1
+UC Berkeley,Polytechnic Institute of NYU,1
+Syracuse University,"University of Arkansas, Fayetteville",1
+Syracuse University,Pennsylvania State University,1
+Ohio State University,George Washington University,1
+"State University of New York, Stony Brook",Kent State University,1
+"State University of New York, Buffalo",Pace University,1
+"State University of New York, Buffalo",Rensselaer Polytechnic Institute,1
+"State University of New York, Buffalo","Southern Illinois University, Carbondale",1
+"State University of New York, Buffalo",Syracuse University,1
+"State University of New York, Buffalo",University of Bridgeport,1
+"State University of New York, Buffalo",University of Connecticut,1
+"State University of New York, Buffalo",University of Louisville,1
+"State University of New York, Buffalo",University of Pittsburgh,1
+"State University of New York, Buffalo","University of Wisconsin, Milwaukee",1
+"State University of New York, Stony Brook",Cornell University,1
+"State University of New York, Stony Brook",DePaul University,1
+"State University of New York, Stony Brook",Florida International University,1
+"State University of New York, Stony Brook",Georgia Tech,1
+"State University of New York, Stony Brook",Harvard University,1
+"State University of New York, Stony Brook",Iowa State University,1
+"State University of New York, Buffalo",Oklahoma State University,1
+"State University of New York, Buffalo",North Dakota State University,1
+"State University of New York, Buffalo",New Jersey Institute of Technology,1
+Stanford University,University of Utah,1
+Stanford University,University of New Hampshire,1
+Stanford University,University of Notre Dame,1
+Stanford University,University of Rochester,1
+Stanford University,University of South Florida,1
+Stanford University,University of Southern California,1
+Stanford University,"University of Texas, Arlington",1
+Stanford University,Virginia Tech,1
+"State University of New York, Buffalo",Iowa State University,1
+"State University of New York, Albany",Florida Institute of Technology,1
+"State University of New York, Albany",Virginia Tech,1
+"State University of New York, Binghamton",Nova Southeastern University,1
+"State University of New York, Binghamton","State University of New York, Buffalo",1
+"State University of New York, Binghamton",University of Victoria,1
+"State University of New York, Buffalo",Georgia State University,1
+"State University of New York, Stony Brook",Kansas State University,1
+"State University of New York, Stony Brook",New Mexico Institute of Mining and Technology,1
+Syracuse University,Indiana University,1
+"State University of New York, Stony Brook",Northwestern University,1
+"State University of New York, Stony Brook",University of Wyoming,1
+"State University of New York, Stony Brook",Virginia Tech,1
+"State University of New York, Stony Brook","Washington State University, Pullman",1
+"State University of New York, Stony Brook",Wright State University,1
+Stevens Institute of Technology,Carnegie Mellon University,1
+Stevens Institute of Technology,Florida Atlantic University,1
+Stevens Institute of Technology,Long Island University,1
+Stevens Institute of Technology,New Jersey Institute of Technology,1
+Stevens Institute of Technology,Old Dominion University,1
+Stevens Institute of Technology,Pace University,1
+Stevens Institute of Technology,University of Maine,1
+Syracuse University,Auburn University,1
+Syracuse University,Carnegie Mellon University,1
+Syracuse University,Colorado State University,1
+Syracuse University,DePaul University,1
+"State University of New York, Stony Brook",University of Utah,1
+"State University of New York, Stony Brook","University of Texas, Dallas",1
+"State University of New York, Stony Brook",University of South Carolina,1
+"State University of New York, Stony Brook",University of Arizona,1
+"State University of New York, Stony Brook",Ohio State University,1
+"State University of New York, Stony Brook",Polytechnic Institute of NYU,1
+"State University of New York, Stony Brook",Rutgers University,1
+"State University of New York, Stony Brook",Stanford University,1
+"State University of New York, Stony Brook",UC Davis,1
+"State University of New York, Stony Brook",UC Santa Barbara,1
+"State University of New York, Stony Brook",University of Houston,1
+"State University of New York, Stony Brook","University of Missouri, Columbia",1
+"State University of New York, Stony Brook","University of Illinois, Chicago",1
+"State University of New York, Stony Brook","University of Louisiana, Lafayette",1
+"State University of New York, Stony Brook","University of Maryland, Baltimore County",1
+"State University of New York, Stony Brook","University of Maryland, College Park",1
+"State University of New York, Stony Brook",University of Memphis,1
+"State University of New York, Stony Brook",University of Miami,1
+UC Davis,Mississippi State University,1
+UC Davis,Ohio State University,1
+UC Davis,Portland State University,1
+UCLA,"University of Massachusetts, Lowell",1
+UCLA,North Carolina State University,1
+UCLA,Portland State University,1
+UCLA,Rutgers University,1
+UCLA,"State University of New York, Binghamton",1
+UCLA,"State University of New York, Stony Brook",1
+UCLA,UC Berkeley,1
+UCLA,UC Davis,1
+UCLA,UC San Diego,1
+UCLA,"University of Alabama, Tuscaloosa",1
+UCLA,University of Arizona,1
+UCLA,University of Connecticut,1
+UCLA,University of Delaware,1
+UCLA,University of Denver,1
+UCLA,University of Georgia,1
+UCLA,"University of Hawaii, Manoa",1
+UCLA,Iowa State University,1
+UCLA,Indiana University,1
+UCLA,George Mason University,1
+UC Santa Cruz,"University of Massachusetts, Amherst",1
+UC Santa Barbara,Virginia Tech,1
+UC Santa Barbara,"Washington State University, Pullman",1
+UC Santa Cruz,Cornell University,1
+UC Santa Cruz,Johns Hopkins University,1
+UC Santa Cruz,Rensselaer Polytechnic Institute,1
+UC Santa Cruz,University of Florida,1
+UC Santa Cruz,University of Miami,1
+UCLA,Florida State University,1
+UCLA,Brigham Young University,1
+UCLA,Carnegie Mellon University,1
+UCLA,Colorado State University,1
+UCLA,Columbia University,1
+UCLA,Florida Atlantic University,1
+UCLA,Florida International University,1
+UCLA,"University of Massachusetts, Amherst",1
+UCLA,University of Michigan,1
+UC Davis,UC Santa Barbara,1
+UCLA,University of New Hampshire,1
+University of Alberta,University of Manitoba,1
+University of Alberta,University of Toronto,1
+University of Alberta,University of Victoria,1
+University of Alberta,York University,1
+University of Arizona,Arizona State University,1
+University of Arizona,Claremont Graduate University,1
+University of Arizona,DePaul University,1
+University of Arizona,Georgia State University,1
+University of Arizona,North Carolina State University,1
+University of Arizona,Polytechnic Institute of NYU,1
+University of Arizona,Purdue University,1
+University of Arizona,Rensselaer Polytechnic Institute,1
+University of Arizona,UC Davis,1
+University of Arizona,"University of Colorado, Boulder",1
+University of Arizona,"University of Idaho, Moscow",1
+University of Alberta,"University of Louisiana, Lafayette",1
+University of Alberta,Temple University,1
+University of Alberta,"State University of New York, Binghamton",1
+UCLA,"Washington University, St. Louis",1
+UCLA,"University of North Carolina, Chapel Hill",1
+UCLA,University of Oregon,1
+UCLA,University of Pennsylvania,1
+UCLA,University of Virginia,1
+UCLA,"University of Wisconsin, Madison",1
+UCLA,Virginia Tech,1
+"University of Alabama, Birmingham","Southern Illinois University, Carbondale",1
+University of Alberta,Simon Fraser University,1
+"University of Alabama, Birmingham","University of Arkansas, Little Rock",1
+"University of Alabama, Huntsville","University of North Texas, Denton",1
+University of Alberta,Dalhousie University,1
+University of Alberta,Naval Postgraduate School,1
+University of Alberta,Purdue University,1
+University of Alberta,Queens University,1
+UC Santa Barbara,University of Southern Mississippi,1
+UC Santa Barbara,University of Rochester,1
+UC Santa Barbara,"University of Nebraska, Omaha",1
+UC Santa Barbara,University of Florida,1
+UC Irvine,UC Santa Cruz,1
+UC Irvine,"University of Alabama, Birmingham",1
+UC Irvine,University of Florida,1
+UC Irvine,"University of Maryland, College Park",1
+UC Irvine,"University of Minnesota, Minneapolis",1
+UC Irvine,"University of Missouri, Columbia",1
+UC Irvine,"University of Nebraska, Lincoln",1
+UC Irvine,"University of Nevada, Las Vegas",1
+UC Irvine,University of Notre Dame,1
+UC Irvine,University of Southern California,1
+UC Irvine,University of Southern Mississippi,1
+UC Irvine,"University of Texas, Dallas",1
+UC Irvine,"University of Texas, San Antonio",1
+UC Irvine,University of Washington,1
+UC Irvine,Virginia Tech,1
+UC Irvine,UC San Diego,1
+UC Irvine,Ohio University,1
+UC Irvine,Georgia Tech,1
+UC Davis,University of New Mexico,1
+UC Davis,University of British Columbia,1
+UC Davis,University of Calgary,1
+UC Davis,"University of Colorado, Boulder",1
+UC Davis,University of Connecticut,1
+UC Davis,"University of Idaho, Moscow",1
+UC Davis,"University of Nebraska, Lincoln",1
+UC Davis,University of Southern Mississippi,1
+UC Irvine,George Mason University,1
+UC Davis,University of Washington,1
+UC Irvine,Arizona State University,1
+UC Irvine,Carnegie Mellon University,1
+UC Irvine,Colorado School of Mines,1
+UC Irvine,Colorado State University,1
+UC Irvine,DePaul University,1
+UC Irvine,Worcester Polytechnic Institute,1
+UC Riverside,Case Western Reserve University,1
+UC Riverside,Florida Atlantic University,1
+UC Santa Barbara,Carnegie Mellon University,1
+UC San Diego,University of Oklahoma,1
+UC San Diego,University of South Carolina,1
+UC San Diego,"University of Texas, San Antonio",1
+UC San Diego,University of Victoria,1
+UC San Diego,University of Washington,1
+UC San Diego,"University of Wisconsin, Madison",1
+UC Santa Barbara,Florida International University,1
+UC San Diego,"University of Illinois, Urbana Champaign",1
+UC Santa Barbara,Florida State University,1
+UC Santa Barbara,Indiana University,1
+UC Santa Barbara,Kansas State University,1
+UC Santa Barbara,Montana State University,1
+UC Santa Barbara,Purdue University,1
+UC Santa Barbara,Santa Clara University,1
+UC San Diego,University of Michigan,1
+UC San Diego,"University of Illinois, Chicago",1
+UC Riverside,UC Irvine,1
+UC San Diego,Indiana University,1
+UC Riverside,"University of Illinois, Chicago",1
+UC San Diego,Brown University,1
+UC San Diego,Colorado State University,1
+UC San Diego,Florida International University,1
+UC San Diego,George Washington University,1
+UC San Diego,Georgia Tech,1
+UC San Diego,Lehigh University,1
+UC San Diego,University of Georgia,1
+UC San Diego,Rensselaer Polytechnic Institute,1
+UC San Diego,UC Berkeley,1
+UC San Diego,UC Irvine,1
+UC San Diego,UCLA,1
+UC San Diego,University of Central Florida,1
+UC San Diego,"University of Colorado, Boulder",1
+Stanford University,University of Montreal,1
+Stanford University,"University of Minnesota, Minneapolis",1
+Stanford University,University of Maine,1
+Princeton University,"University of Minnesota, Minneapolis",1
+Princeton University,UC Berkeley,1
+Princeton University,UC Davis,1
+Princeton University,UC Irvine,1
+Princeton University,UC Riverside,1
+Princeton University,UC Santa Barbara,1
+Princeton University,"University of Alabama, Tuscaloosa",1
+Princeton University,University of British Columbia,1
+Princeton University,University of Chicago,1
+Princeton University,"University of Colorado, Boulder",1
+Princeton University,University of Connecticut,1
+Princeton University,"University of Illinois, Urbana Champaign",1
+Princeton University,"University of Kansas, Lawrence",1
+Princeton University,"University of Maryland, Baltimore County",1
+Princeton University,"University of Maryland, College Park",1
+Princeton University,"University of Massachusetts, Amherst",1
+Princeton University,Toyota Technological Institute at Chicago,1
+Princeton University,Stanford University,1
+Princeton University,Rice University,1
+Princeton University,Kansas State University,1
+Princeton University,Colorado State University,1
+Princeton University,Dartmouth College,1
+Princeton University,Florida International University,1
+Princeton University,George Mason University,1
+Princeton University,George Washington University,1
+Princeton University,Johns Hopkins University,1
+Princeton University,MIT,1
+Princeton University,Purdue University,1
+Princeton University,McMaster University,1
+Princeton University,New York University,1
+Princeton University,Northeastern University,1
+Princeton University,Northwestern University,1
+Princeton University,Nova Southeastern University,1
+Princeton University,Pennsylvania State University,1
+Princeton University,University of Miami,1
+Princeton University,"University of Missouri, Columbia",1
+Purdue University,University of Central Florida,1
+Princeton University,University of South Florida,1
+Purdue University,Ohio State University,1
+Purdue University,Ohio University,1
+Purdue University,Old Dominion University,1
+Purdue University,Polytechnic Institute of NYU,1
+Purdue University,Princeton University,1
+Purdue University,Rochester Institute of Technology,1
+Purdue University,Santa Clara University,1
+Purdue University,Simon Fraser University,1
+Purdue University,"State University of New York, Albany",1
+Purdue University,"State University of New York, Stony Brook",1
+Purdue University,Temple University,1
+Purdue University,Texas Tech University,1
+Purdue University,UC Irvine,1
+Purdue University,UC Riverside,1
+Purdue University,University of Alberta,1
+Purdue University,Nova Southeastern University,1
+Purdue University,Michigan State University,1
+Purdue University,McGill University,1
+Princeton University,Vanderbilt University,1
+Princeton University,University of Southern California,1
+Princeton University,"University of Texas, Dallas",1
+Princeton University,University of Toronto,1
+Princeton University,University of Victoria,1
+Princeton University,University of Washington,1
+Princeton University,University of Waterloo,1
+Princeton University,Yale University,1
+Purdue University,Louisiana State University,1
+Princeton University,York University,1
+Purdue University,Carleton University,1
+Purdue University,Case Western Reserve University,1
+Purdue University,College of William and Mary,1
+Purdue University,Colorado State University,1
+Purdue University,Duke University,1
+Princeton University,College of William and Mary,1
+Princeton University,Carnegie Mellon University,1
+Princeton University,California Institute of Technology,1
+Princeton University,Brandeis University,1
+Ohio State University,"University of Tennessee, Knoxville",1
+Ohio State University,"University of Texas, Dallas",1
+Ohio State University,University of Toronto,1
+Ohio State University,University of Waterloo,1
+Ohio State University,"University of Wisconsin, Milwaukee",1
+Ohio State University,Virginia Tech,1
+Ohio State University,Worcester Polytechnic Institute,1
+Oklahoma State University,"University of North Carolina, Charlotte",1
+Old Dominion University,"University of Alabama, Tuscaloosa",1
+Old Dominion University,University of Toledo,1
+Oregon Health and Science University,Naval Postgraduate School,1
+Oregon Health and Science University,University of Georgia,1
+Oregon State University,Brigham Young University,1
+Oregon State University,Portland State University,1
+Oregon State University,"University of Idaho, Moscow",1
+Ohio State University,"University of Missouri, Columbia",1
+Ohio State University,University of Memphis,1
+Ohio State University,"University of Illinois, Urbana Champaign",1
+Ohio State University,Old Dominion University,1
+Ohio State University,Georgia Tech,1
+Ohio State University,Kent State University,1
+Ohio State University,Michigan Technological University,1
+Ohio State University,Mississippi State University,1
+Ohio State University,Northeastern University,1
+Ohio State University,Ohio University,1
+Ohio State University,Simon Fraser University,1
+Ohio State University,"University of Illinois, Chicago",1
+Ohio State University,UC Irvine,1
+Ohio State University,UCLA,1
+Ohio State University,"University of Alabama, Birmingham",1
+Ohio State University,"University of Alabama, Tuscaloosa",1
+Ohio State University,University of Connecticut,1
+Ohio State University,University of Delaware,1
+Oregon State University,"University of Nebraska, Omaha",1
+Oregon State University,Utah State University,1
+Pennsylvania State University,Catholic University of America,1
+Polytechnic Institute of NYU,McGill University,1
+Pennsylvania State University,"University of Missouri, Columbia",1
+Pennsylvania State University,"University of Nebraska, Omaha",1
+Pennsylvania State University,University of Oregon,1
+Pennsylvania State University,University of Virginia,1
+Pennsylvania State University,University of Wyoming,1
+Polytechnic Institute of NYU,Boston University,1
+Polytechnic Institute of NYU,Mississippi State University,1
+Pennsylvania State University,University of Connecticut,1
+Polytechnic Institute of NYU,Pace University,1
+Polytechnic Institute of NYU,"University of Colorado, Colorado Springs",1
+Polytechnic Institute of NYU,University of Louisville,1
+Portland State University,Florida State University,1
+Portland State University,North Carolina State University,1
+Princeton University,Boston University,1
+Pennsylvania State University,University of Mississippi,1
+Pennsylvania State University,UC Davis,1
+Pennsylvania State University,DePaul University,1
+Pennsylvania State University,New Mexico State University,1
+Pennsylvania State University,Florida Atlantic University,1
+Pennsylvania State University,Georgia Tech,1
+Pennsylvania State University,Harvard University,1
+Pennsylvania State University,Louisiana State University,1
+Pennsylvania State University,Memorial University of Newfoundland,1
+Pennsylvania State University,Missouri University of Science and Technology,1
+Pennsylvania State University,Oregon State University,1
+Pennsylvania State University,Texas Tech University,1
+Pennsylvania State University,Polytechnic Institute of NYU,1
+Pennsylvania State University,Rensselaer Polytechnic Institute,1
+Pennsylvania State University,"State University of New York, Buffalo",1
+Pennsylvania State University,"State University of New York, Stony Brook",1
+Pennsylvania State University,Temple University,1
+Pennsylvania State University,Texas A&M,1
+Purdue University,University of Arizona,1
+Purdue University,University of Delaware,1
+Stanford University,University of Kentucky,1
+Southern Methodist University,Kent State University,1
+Rutgers University,University of Ottawa,1
+Rutgers University,"University of Texas, Arlington",1
+Rutgers University,"University of Texas, San Antonio",1
+Rutgers University,University of Toronto,1
+Rutgers University,University of Waterloo,1
+Rutgers University,"University of Wisconsin, Milwaukee",1
+Rutgers University,Virginia Tech,1
+Simon Fraser University,"State University of New York, Albany",1
+Simon Fraser University,University of Alberta,1
+Simon Fraser University,University of Arizona,1
+Simon Fraser University,University of Florida,1
+Simon Fraser University,University of Waterloo,1
+"Southern Illinois University, Carbondale",Colorado State University,1
+"Southern Illinois University, Carbondale",Florida Institute of Technology,1
+"Southern Illinois University, Carbondale",McGill University,1
+Rutgers University,University of Montreal,1
+Rutgers University,University of Michigan,1
+Rutgers University,University of Louisville,1
+Rutgers University,Ohio State University,1
+Rice University,Yale University,1
+Rutgers University,Case Western Reserve University,1
+Rutgers University,Drexel University,1
+Rutgers University,Louisiana State University,1
+Rutgers University,McGill University,1
+Rutgers University,New Jersey Institute of Technology,1
+Rutgers University,Oregon State University,1
+Rutgers University,University of Georgia,1
+Rutgers University,Polytechnic Institute of NYU,1
+Rutgers University,"State University of New York, Buffalo",1
+Rutgers University,Stevens Institute of Technology,1
+Rutgers University,UC Davis,1
+Rutgers University,UC Santa Barbara,1
+Rutgers University,University of Florida,1
+Southern Methodist University,Iowa State University,1
+Southern Methodist University,Oregon State University,1
+Purdue University,"University of Hawaii, Manoa",1
+Southern Methodist University,University of Alberta,1
+Stanford University,Simon Fraser University,1
+Stanford University,Southern Methodist University,1
+Stanford University,Temple University,1
+Stanford University,Tufts University,1
+Stanford University,UC Irvine,1
+Stanford University,UC Riverside,1
+Stanford University,UC Santa Barbara,1
+Stanford University,University of Alberta,1
+Stanford University,University of Calgary,1
+Stanford University,University of Central Florida,1
+Stanford University,University of Chicago,1
+Stanford University,"University of Colorado, Boulder",1
+Stanford University,"University of Illinois, Chicago",1
+Stanford University,University of Iowa,1
+Stanford University,"University of Kansas, Lawrence",1
+Stanford University,Polytechnic Institute of NYU,1
+Stanford University,Oregon State University,1
+Stanford University,Oregon Health and Science University,1
+Stanford University,Georgia Tech,1
+Southern Methodist University,"University of Arkansas, Little Rock",1
+Southern Methodist University,University of Memphis,1
+Southern Methodist University,"University of North Texas, Denton",1
+Southern Methodist University,University of Oklahoma,1
+Southern Methodist University,University of Washington,1
+Stanford University,Brandeis University,1
+Stanford University,Iowa State University,1
+Stanford University,Ohio University,1
+Stanford University,McGill University,1
+Stanford University,McMaster University,1
+Stanford University,Michigan State University,1
+Stanford University,Naval Postgraduate School,1
+Stanford University,North Carolina State University,1
+Stanford University,Northwestern University,1
+Rice University,"Washington University, St. Louis",1
+Rice University,Vanderbilt University,1
+Rice University,University of Victoria,1
+Rice University,University of Tulsa,1
+Purdue University,"University of Wisconsin, Madison",1
+Purdue University,"University of Wisconsin, Milwaukee",1
+Purdue University,Western Michigan University,1
+Purdue University,York University,1
+Queens University,"Concordia University, Montreal",1
+Queens University,Indiana University,1
+Queens University,Rochester Institute of Technology,1
+Queens University,University of New Brunswick,1
+Queens University,University of Ottawa,1
+Queens University,University of Waterloo,1
+Rensselaer Polytechnic Institute,California Institute of Technology,1
+Rensselaer Polytechnic Institute,Dalhousie University,1
+Rensselaer Polytechnic Institute,Drexel University,1
+Rensselaer Polytechnic Institute,Illinois Institute of Technology,1
+Rensselaer Polytechnic Institute,Indiana University,1
+Purdue University,University of Western Ontario,1
+Purdue University,University of Waterloo,1
+Purdue University,University of Utah,1
+Purdue University,University of New Mexico,1
+Purdue University,"University of Kansas, Lawrence",1
+Purdue University,University of Kentucky,1
+Purdue University,"University of Louisiana, Lafayette",1
+Purdue University,"University of Maryland, Baltimore County",1
+Purdue University,"University of Maryland, College Park",1
+Purdue University,"University of Missouri, Columbia",1
+Purdue University,"University of North Carolina, Chapel Hill",1
+Purdue University,University of Toronto,1
+Purdue University,"University of North Carolina, Charlotte",1
+Purdue University,"University of North Texas, Denton",1
+Purdue University,University of South Carolina,1
+Purdue University,University of South Florida,1
+Purdue University,"University of Tennessee, Knoxville",1
+Purdue University,"University of Texas, Arlington",1
+Rensselaer Polytechnic Institute,North Dakota State University,1
+Rensselaer Polytechnic Institute,Pace University,1
+Rensselaer Polytechnic Institute,"State University of New York, Albany",1
+Rice University,University of Houston,1
+Rice University,Rutgers University,1
+Rice University,Southern Methodist University,1
+Rice University,Syracuse University,1
+Rice University,Texas A&M,1
+Rice University,University of Chicago,1
+Rice University,"University of Colorado, Boulder",1
+Rice University,"University of Nevada, Reno",1
+Rice University,Northeastern University,1
+Rice University,University of Pennsylvania,1
+Rice University,University of Rochester,1
+Rice University,"University of Texas, Arlington",1
+Rice University,"University of Texas, Austin",1
+Rice University,"University of Texas, San Antonio",1
+Rice University,University of Toronto,1
+Rice University,Princeton University,1
+Rice University,New Mexico Institute of Mining and Technology,1
+Rensselaer Polytechnic Institute,University of Connecticut,1
+Rensselaer Polytechnic Institute,Wright State University,1
+Rensselaer Polytechnic Institute,University of Denver,1
+Rensselaer Polytechnic Institute,University of Iowa,1
+Rensselaer Polytechnic Institute,"University of Nebraska, Omaha",1
+Rensselaer Polytechnic Institute,"University of Nevada, Reno",1
+Rensselaer Polytechnic Institute,University of New Brunswick,1
+Rensselaer Polytechnic Institute,University of South Carolina,1
+Rice University,Brown University,1
+Rice University,Michigan Technological University,1
+Rice University,Catholic University of America,1
+Rice University,College of William and Mary,1
+Rice University,George Mason University,1
+Rice University,Lehigh University,1
+Rice University,MIT,1
+Rice University,McGill University,1
+York University,"Concordia University, Montreal",1
