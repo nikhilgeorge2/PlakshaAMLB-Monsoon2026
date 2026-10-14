@@ -1,0 +1,5 @@
+# HW3 environment = the grader's stack. Python 3.11-3.13:  python -m venv hw3 && source hw3/bin/activate && pip install -r requirements.txt
+numpy==2.3.5
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.8.0
