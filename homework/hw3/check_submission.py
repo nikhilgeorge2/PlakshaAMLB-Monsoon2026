@@ -6,7 +6,8 @@ It replays a sample of 1,000 auctions drawn from historical_log.csv through your
 budget, one with a budget that runs out, and a repeat of the first. The prices it uses for lost auctions are stand-ins
 and the outcomes it sends to update() are random, so the replay only tests that your bidder runs, not how well it does.
 
-Usage:  python check_submission.py bidder.py [writeup.md] [historical_log.csv]
+Usage:  python check_submission.py bidder.py [historical_log.csv]
+        (run it from the folder that holds historical_log.csv, or give its path as the last argument)
 """
 import sys
 if sys.version_info < (3, 9):
@@ -384,7 +385,6 @@ FEATURES = ['interest', 'revisit', 'device', 'os', 'age_bracket', 'city_tier', '
             'session_depth', 'day_of_week']
 N_SAMPLE = 1000                               # auctions per practice campaign
 PRACTICE = [(N_SAMPLE, 5.5), (N_SAMPLE, 0.5)]  # (auctions, budget per auction in Rs): a middle level, and one that runs out
-WRITEUP_MAX_WORDS = 800
 LENIENT = 2.0                                 # the check fails only at twice the CPU limits: your machine may be slower than the grader's
 
 
@@ -456,22 +456,18 @@ def environment_lines():
     return lines, warn
 
 
-def name_advice(bidder, writeup):
-    """File names must be the roll numbers of the team joined by underscores (1-3 of them), the same for the .py and the .md."""
+def name_advice(bidder):
+    """The file name must be the roll numbers of the team joined by underscores (1-3 of them)."""
     import re
     adv = []
     stem = os.path.splitext(os.path.basename(bidder))[0]
     parts = stem.split('_')
     if not (1 <= len(parts) <= 3 and all(re.fullmatch(r'[A-Za-z0-9]+', x) for x in parts) and len({x.lower() for x in parts}) == len(parts)) or stem.lower() in ('bidder', 'template', 'bidder_template'):
         adv.append(f"rename '{os.path.basename(bidder)}': the file name must be the roll numbers of everyone in the team joined by underscores (1 to 3), e.g. 2301001_2301007.py")
-    if writeup and os.path.splitext(os.path.basename(writeup))[0] != stem:
-        adv.append(f"the write-up should have the same name as the bidder: {stem}.md")
-    if not writeup:
-        adv.append(f"also submit the write-up: {stem}.md (at most 800 words)")
     return adv
 
 
-def check(path, log_path='historical_log.csv', writeup=None):
+def check(path, log_path='historical_log.csv'):
     rows, fails, notes = [], [], []
 
     def rule(name, ok, detail):
@@ -482,12 +478,6 @@ def check(path, log_path='historical_log.csv', writeup=None):
 
     size_mb = os.path.getsize(path) / 1e6
     rule('file size', size_mb <= CONTRACT['max_file_mb'], f"{size_mb:.2f} MB (limit {CONTRACT['max_file_mb']} MB)")
-    if writeup:
-        try:
-            words = len(open(writeup, encoding='utf-8', errors='replace').read().split())
-            rule('write-up', 0 < words <= WRITEUP_MAX_WORDS, f"{words} words (limit {WRITEUP_MAX_WORDS})")
-        except OSError as e:
-            rule('write-up', False, f"cannot read {writeup}: {e}")
     try:
         bad = disallowed_imports(path)
     except SyntaxError as e:
@@ -557,24 +547,21 @@ if __name__ == '__main__':
         _child_main()
         sys.exit(0)
     a = sys.argv
-    md = [x for x in a[1:] if x.lower().endswith('.md')]
-    pos = [x for x in a[1:] if not x.lower().endswith('.md')]
+    pos = [x for x in a[1:] if not x.lower().endswith('.md')]      # a .md argument is ignored: the write-up is not checked
     if not pos:
-        sys.exit('usage: python check_submission.py bidder.py [writeup.md] [historical_log.csv]')
+        sys.exit('usage: python check_submission.py bidder.py [historical_log.csv]')
     log_p = pos[1] if len(pos) > 1 else check.__defaults__[0]
-    for what, f in (('bidder file', pos[0]), ('write-up', md[0] if md else None), ('historical log', log_p)):
+    for what, f in (('bidder file', pos[0]), ('historical log', log_p)):
         if f and not os.path.isfile(f):
             sys.exit(f"cannot find the {what}: {f}" + ("  (run the check from the folder that holds historical_log.csv, or pass its path after the bidder)" if 'log' in what else ''))
-    rows, fails, notes = check(pos[0], log_p, writeup=md[0] if md else None)
-    if not md:
-        notes.append('write-up not checked: run  python check_submission.py bidder.py writeup.md')
+    rows, fails, notes = check(pos[0], log_p)
     for name, ok, detail in rows:
         print(f"{'PASS' if ok is True else 'WARN' if ok == 'warn' else 'FAIL'}  {name:28s} {detail}")
     if notes:
         print("\nNotes:")
         for line in notes:
             print("  " + line)
-    adv = name_advice(pos[0], md[0] if md else None)
+    adv = name_advice(pos[0])
     if adv:
         print("\nBefore you submit:")
         for line in adv:

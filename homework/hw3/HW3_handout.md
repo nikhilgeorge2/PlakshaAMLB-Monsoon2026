@@ -55,4 +55,4 @@ Every campaign starts from a fresh copy of your bidder exactly as `fit` left it,
 
 **Environment.** `requirements.txt` pins the exact package versions the grader uses. Install them (`pip install -r requirements.txt`) and develop and check your bidder in that environment, so that what runs for you also runs in grading.
 
-`python check_submission.py <rollnos>.py <rollnos>.md` confirms that your file runs within these limits. It does not report a score and says nothing about how good the bidder is.
+`python check_submission.py <rollnos>.py` confirms that your file runs within these limits. It does not report a score and says nothing about how good the bidder is. Run it from the folder that holds `historical_log.csv`, or give its path as the last argument.
