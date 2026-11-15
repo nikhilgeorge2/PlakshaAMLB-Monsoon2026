@@ -12,12 +12,41 @@ When a company goes public, an investment bank helps it find institutional inves
 
 **Build one shared embedding space for stocks and investors.** Give every stock and every investor a vector of 16 numbers. The bank scores an investor–stock pair by the cosine similarity of their two vectors, and by nothing else; a high score means "this stock suits this investor". It uses your two tables unchanged for all three jobs: whom to call for a new listing, who might newly buy an established stock, and which companies fit an investor. How you build the vectors is your choice: collaborative filtering, matrix factorisation, pretrained language models from the approved list, or any other method the rules below permit.
 
-**What you are given.** Holdings of 200 large investors at four 2025 quarter-ends (31 Mar, 30 Jun, 30 Sep, 31 Dec), with the date each filing became public (the files call an investor a `manager`); and 197 companies with ticker, name and SEC identifier:
-- 100 established stocks held widely by those investors (Microsoft, Alphabet, Meta);
+**What you are given.** Data on the 200 investors and the 197 stocks, the two sets used throughout. The 200 investors (`manager_info.csv`) are the largest active stock-picking 13F filers at 31 December 2025. The 197 stocks (`companies.csv`) are the 100 stocks they held most widely plus the companies that listed in two windows:
+- 100 established stocks (Microsoft, Alphabet, Meta);
 - 53 companies that listed in the second half of 2025 (Figma, Klarna);
 - 44 that listed between 2 March and 30 June 2026 (MiniMed, PayPay, Fervo Energy).
 
-The 2026 listings do not appear in the supplied holdings. Nothing else is provided: no business descriptions, no industry codes, no embeddings.
+Nothing else is provided: no business descriptions, no industry codes, no embeddings.
+
+**The data files.** Four comma-separated files in `data/`; a manager is an investor, and every date is YYYY-MM-DD.
+
+`holdings.csv`, 24,126 rows; the positions the 200 investors reported in the 197 stocks, one row per investor, stock and quarter-end. A missing row means no reported position; the 2026 listings never appear.
+- `quarter_end`: the date the report covers (2025-03-31, 2025-06-30, 2025-09-30, 2025-12-31)
+- `manager_id`, `stock_id`: investor ids (M001, M002, …) and stock ids (S001, S002, …)
+- `value_usd`: market value of the position at `quarter_end`, in US dollars; `shares`: number of shares held
+- `filing_date`: the date the report became public, always later than `quarter_end` (usually within 45 days)
+
+Example: `2025-03-31,M001,S001,260277441,693352,2025-05-15`
+
+`filings.csv`, 798 rows; one row per report an investor filed for a 2025 quarter-end, including reports with none of the 197 stocks; no row means the investor did not file for that quarter.
+- `manager_id`, `quarter_end`, `filing_date`: as in `holdings.csv`
+
+Example: `M001,2025-03-31,2025-05-15`
+
+`manager_info.csv`, 200 rows; one row per investor.
+- `manager_id`; `sec_cik`: the SEC's filer identifier, used on EDGAR; `name`
+- `total_value_usd_dec2025`, `total_positions_dec2025`: US-dollar value and number of positions of the whole 31 December 2025 report, all securities
+- `positions_in_197_stocks_dec2025`: positions in the 197 stocks in that report
+
+Example: `M001,10742,BECK MACK & OLIVER LLC,5506180680,194,50`
+
+`companies.csv`, 197 rows; one row per stock.
+- `stock_id`; `ticker`; `company_name`; `sec_cik`: the SEC's company identifier, used on EDGAR
+- `status`: `established` (the 100 most widely held), `ipo_2025H2` (53 listed 1 July–31 December 2025), `ipo_2026` (44 listed 2 March–30 June 2026)
+- `listing_date`: the IPO date; empty for established stocks
+
+Example: `S110,FIG,"Figma, Inc.",1579878,ipo_2025H2,2025-07-31`
 
 **What you have to find.** Anything beyond holdings comes from public sources you locate yourself: a company's 10-K or prospectus on EDGAR, an industry code, other data you can date and cite.
 

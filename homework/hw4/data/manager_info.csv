@@ -1,4 +1,4 @@
-manager_id,cik,name,total_13f_value_usd_2025q4,total_positions_2025q4,pack_positions_2025q4
+manager_id,sec_cik,name,total_value_usd_dec2025,total_positions_dec2025,positions_in_197_stocks_dec2025
 M001,10742,BECK MACK & OLIVER LLC,5506180680,194,50
 M002,20286,CINCINNATI FINANCIAL CORP,5122799503,54,21
 M003,24386,COOKE & BIELER LP,9588966880,104,11

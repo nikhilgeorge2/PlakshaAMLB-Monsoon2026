@@ -1,4 +1,4 @@
-stock_id,ticker,company,cik,status,listing_date
+stock_id,ticker,company_name,sec_cik,status,listing_date
 S001,MSFT,MICROSOFT CORP,789019,established,
 S002,GOOGL,Alphabet Inc.,1652044,established,
 S003,AMZN,AMAZON COM INC,1018724,established,
@@ -99,100 +99,100 @@ S097,SLB,SLB LIMITED/NV,87347,established,
 S098,VRT,Vertiv Holdings Co,1674101,established,
 S099,AME,AMETEK INC/,1037868,established,
 S100,A,"AGILENT TECHNOLOGIES, INC.",1090872,established,
-S101,GRAN,Grande Group Ltd/HK,2027722,listed_2025H2,2025-07-01
-S102,COSO,"CoastalSouth Bancshares, Inc.",1297107,listed_2025H2,2025-07-02
-S103,CV,"CapsoVision, Inc",1378325,listed_2025H2,2025-07-03
-S104,PASW,"Ping An Biomedical Co., Ltd.",1897532,listed_2025H2,2025-07-21
-S105,CARL,"CARLSMED, INC.",1794546,listed_2025H2,2025-07-24
-S106,MH,"McGraw Hill, Inc.",1951070,listed_2025H2,2025-07-24
-S107,NIQ,NIQ Global Intelligence plc,2054696,listed_2025H2,2025-07-24
-S108,ARX,Accelerant Holdings,1997350,listed_2025H2,2025-07-25
-S109,AMBQ,"Ambiq Micro, Inc.",1500412,listed_2025H2,2025-07-31
-S110,FIG,"Figma, Inc.",1579878,listed_2025H2,2025-07-31
-S111,SI,"SHOULDER INNOVATIONS, INC.",1699350,listed_2025H2,2025-08-01
-S112,CTW,CTW,2047148,listed_2025H2,2025-08-07
-S113,AVBH,"Avidbank Holdings, Inc.",1443575,listed_2025H2,2025-08-08
-S114,HTFL,"Heartflow, Inc.",1464521,listed_2025H2,2025-08-08
-S115,FLY,Firefly Aerospace Inc.,1860160,listed_2025H2,2025-08-08
-S116,WYFI,"WhiteFiber, Inc.",2042022,listed_2025H2,2025-08-08
-S117,BLSH,Bullish,1872195,listed_2025H2,2025-08-13
-S118,MIAX,"MIAMI INTERNATIONAL HOLDINGS, INC.",1438472,listed_2025H2,2025-08-14
-S119,,"Bally's Chicago, Inc.",1935799,listed_2025H2,2025-08-14
-S120,NSRX,Nasus Pharma Ltd,2029039,listed_2025H2,2025-08-14
-S121,KLAR,Klarna Group plc,2003292,listed_2025H2,2025-09-10
-S122,FIGR,"Figure Technology Solutions, Inc.",2064124,listed_2025H2,2025-09-11
-S123,LBRX,LB PHARMACEUTICALS INC,1691082,listed_2025H2,2025-09-12
-S124,VIA,"Via Transportation, Inc.",1603015,listed_2025H2,2025-09-15
-S125,LGN,Legence Corp.,2052568,listed_2025H2,2025-09-15
-S126,GEMI,"Gemini Space Station, Inc.",2055592,listed_2025H2,2025-09-15
-S127,BRCB,"Black Rock Coffee Bar, Inc.",2068577,listed_2025H2,2025-09-15
-S128,STUB,"StubHub Holdings, Inc.",1337634,listed_2025H2,2025-09-17
-S129,NTSK,Netskope Inc,2063196,listed_2025H2,2025-09-18
-S130,WBI,WaterBridge Infrastructure LLC,2064947,listed_2025H2,2025-09-18
-S131,PTRN,Pattern Group Inc.,1811935,listed_2025H2,2025-09-19
-S132,NP,Neptune Insurance Holdings Inc.,2067129,listed_2025H2,2025-10-01
-S133,CBK,"Commercial Bancgroup, Inc.",1981546,listed_2025H2,2025-10-02
-S134,TTRX,Turn Therapeutics Inc.,2023016,listed_2025H2,2025-10-08
-S135,ALH,Alliance Laundry Holdings Inc.,1317685,listed_2025H2,2025-10-09
-S136,PXED,"Phoenix Education Partners, Inc.",1600222,listed_2025H2,2025-10-09
-S137,YDDL,One & one Green Technologies. INC,2034723,listed_2025H2,2025-10-09
-S138,SLGB,Smart Logistics Global Ltd,1987189,listed_2025H2,2025-10-15
-S139,BGIN,BGIN BLOCKCHAIN Ltd,1945565,listed_2025H2,2025-10-22
-S140,NPT,Texxon Holding Ltd,2014337,listed_2025H2,2025-10-22
-S141,NAVN,"Navan, Inc.",1639723,listed_2025H2,2025-10-31
-S142,BETA,"BETA Technologies, Inc.",1784570,listed_2025H2,2025-11-04
-S143,XZO,"Exzeo Group, Inc.",1873951,listed_2025H2,2025-11-05
-S144,EVMN,"Evommune, Inc.",2044725,listed_2025H2,2025-11-06
-S145,BLLN,"BillionToOne, Inc.",2070849,listed_2025H2,2025-11-06
-S146,GLOO,"Gloo Holdings, Inc.",2069785,listed_2025H2,2025-11-19
-S147,CBC,"Central Bancompany, Inc.",2065601,listed_2025H2,2025-11-21
-S148,PARK,"Park Dental Partners, Inc.",2069604,listed_2025H2,2025-12-03
-S149,CDNL,Cardinal Infrastructure Group Inc.,2079999,listed_2025H2,2025-12-10
-S150,WLTH,WEALTHFRONT CORP,1524566,listed_2025H2,2025-12-12
-S151,LMRI,"Lumexa Imaging Holdings, Inc.",2071288,listed_2025H2,2025-12-12
-S152,ANDG,Andersen Group Inc.,2065708,listed_2025H2,2025-12-17
-S153,MDLN,Medline Inc.,2046386,listed_2025H2,2025-12-18
-S154,MMED,"MiniMed Group, Inc.",2062583,new_listing,2026-03-06
-S155,PAYP,PayPay Corp,2080845,new_listing,2026-03-12
-S156,SWMR,"Swarmer, Inc",2092574,new_listing,2026-03-17
-S157,GMTL,Guardian Metal Resources PLC,2039972,new_listing,2026-03-23
-S158,HMH,HMH Holding Inc,2021880,new_listing,2026-04-01
-S159,ARXS,"Arxis, Inc.",2093536,new_listing,2026-04-16
-S160,KLRA,"Kailera Therapeutics, Inc.",2096997,new_listing,2026-04-17
-S161,MAIR,Madison Air Solutions Corp,2098430,new_listing,2026-04-17
-S162,ALMR,"Alamar Biosciences, Inc.",2104204,new_listing,2026-04-17
-S163,AVEX,AEVEX Corp.,2096300,new_listing,2026-04-20
-S164,YSWY,"Yesway, Inc.",1859836,new_listing,2026-04-23
-S165,ELMT,Elmet Group Co.,2101698,new_listing,2026-04-23
-S166,XE,"X-Energy, Inc.",2088896,new_listing,2026-04-27
-S167,AVLN,Avalyn Pharma Inc.,1540171,new_listing,2026-04-30
-S168,PS,PERSHING SQUARE INC.,2026053,new_listing,2026-04-30
-S169,SBMT,SILVER BOW MINING CORP.,2067674,new_listing,2026-04-30
-S170,SPTX,"Seaport Therapeutics, Inc.",2042347,new_listing,2026-05-01
-S171,COAG,"Hemab Therapeutics Holdings, Inc.",2114044,new_listing,2026-05-01
-S172,HAWK,"HawkEye 360, Inc.",1750704,new_listing,2026-05-07
-S173,REA,"Rare Earths Americas, Inc.",2095743,new_listing,2026-05-07
-S174,MOBI,"Mobia Medical, Inc.",1489993,new_listing,2026-05-08
-S175,ODTX,"Odyssey Therapeutics, Inc.",1882782,new_listing,2026-05-08
-S176,SUJA,"SUJA LIFE, INC.",1934114,new_listing,2026-05-08
-S177,FRVO,Fervo Energy Co,1853868,new_listing,2026-05-14
-S178,GMRS,GMR Solutions Inc.,1898718,new_listing,2026-05-14
-S179,CBRS,Cerebras Systems Inc.,2021728,new_listing,2026-05-14
-S180,EROK,"EagleRock Land, LLC",2104882,new_listing,2026-05-14
-S181,MWC,"Micware Co., Ltd.",2083526,new_listing,2026-05-15
-S182,OPTH,Optimi Health Corp.,2027329,new_listing,2026-05-20
-S183,LCLN,"Lincoln International, Inc.",1925283,new_listing,2026-05-21
-S184,LFTO,"Liftoff Mobile, Inc.",1850351,new_listing,2026-06-04
-S185,INIO,INNIO N.V.,2109150,new_listing,2026-06-04
-S186,AADX,"Applied Aerospace & Defense, Inc.",2118195,new_listing,2026-06-04
-S187,SSMR,Sunshine Silver Mining & Refining Co,2091017,new_listing,2026-06-05
-S188,QNT,Quantinuum Inc.,2110105,new_listing,2026-06-05
-S189,PBLS,"Parabilis Medicines, Inc.",1657677,new_listing,2026-06-10
-S190,EROC,"ERock, Inc.",2110029,new_listing,2026-06-10
-S191,FRBT,"Forbright, Inc.",1925062,new_listing,2026-06-11
-S192,SPCX,SPACE EXPLORATION TECHNOLOGIES CORP,1181412,new_listing,2026-06-12
-S193,FCBM,"First Carolina Financial Services, Inc.",1531193,new_listing,2026-06-18
-S194,KARD,"Kardigan, Inc.",2123613,new_listing,2026-06-18
-S195,DSC,DSC Holdings Ltd.,1966041,new_listing,2026-06-26
-S196,DPC,DPC Holdings PLC,2107018,new_listing,2026-06-26
-S197,SIND,Sinda Ltd.,2096861,new_listing,2026-06-29
+S101,GRAN,Grande Group Ltd/HK,2027722,ipo_2025H2,2025-07-01
+S102,COSO,"CoastalSouth Bancshares, Inc.",1297107,ipo_2025H2,2025-07-02
+S103,CV,"CapsoVision, Inc",1378325,ipo_2025H2,2025-07-03
+S104,PASW,"Ping An Biomedical Co., Ltd.",1897532,ipo_2025H2,2025-07-21
+S105,CARL,"CARLSMED, INC.",1794546,ipo_2025H2,2025-07-24
+S106,MH,"McGraw Hill, Inc.",1951070,ipo_2025H2,2025-07-24
+S107,NIQ,NIQ Global Intelligence plc,2054696,ipo_2025H2,2025-07-24
+S108,ARX,Accelerant Holdings,1997350,ipo_2025H2,2025-07-25
+S109,AMBQ,"Ambiq Micro, Inc.",1500412,ipo_2025H2,2025-07-31
+S110,FIG,"Figma, Inc.",1579878,ipo_2025H2,2025-07-31
+S111,SI,"SHOULDER INNOVATIONS, INC.",1699350,ipo_2025H2,2025-08-01
+S112,CTW,CTW,2047148,ipo_2025H2,2025-08-07
+S113,AVBH,"Avidbank Holdings, Inc.",1443575,ipo_2025H2,2025-08-08
+S114,HTFL,"Heartflow, Inc.",1464521,ipo_2025H2,2025-08-08
+S115,FLY,Firefly Aerospace Inc.,1860160,ipo_2025H2,2025-08-08
+S116,WYFI,"WhiteFiber, Inc.",2042022,ipo_2025H2,2025-08-08
+S117,BLSH,Bullish,1872195,ipo_2025H2,2025-08-13
+S118,MIAX,"MIAMI INTERNATIONAL HOLDINGS, INC.",1438472,ipo_2025H2,2025-08-14
+S119,,"Bally's Chicago, Inc.",1935799,ipo_2025H2,2025-08-14
+S120,NSRX,Nasus Pharma Ltd,2029039,ipo_2025H2,2025-08-14
+S121,KLAR,Klarna Group plc,2003292,ipo_2025H2,2025-09-10
+S122,FIGR,"Figure Technology Solutions, Inc.",2064124,ipo_2025H2,2025-09-11
+S123,LBRX,LB PHARMACEUTICALS INC,1691082,ipo_2025H2,2025-09-12
+S124,VIA,"Via Transportation, Inc.",1603015,ipo_2025H2,2025-09-15
+S125,LGN,Legence Corp.,2052568,ipo_2025H2,2025-09-15
+S126,GEMI,"Gemini Space Station, Inc.",2055592,ipo_2025H2,2025-09-15
+S127,BRCB,"Black Rock Coffee Bar, Inc.",2068577,ipo_2025H2,2025-09-15
+S128,STUB,"StubHub Holdings, Inc.",1337634,ipo_2025H2,2025-09-17
+S129,NTSK,Netskope Inc,2063196,ipo_2025H2,2025-09-18
+S130,WBI,WaterBridge Infrastructure LLC,2064947,ipo_2025H2,2025-09-18
+S131,PTRN,Pattern Group Inc.,1811935,ipo_2025H2,2025-09-19
+S132,NP,Neptune Insurance Holdings Inc.,2067129,ipo_2025H2,2025-10-01
+S133,CBK,"Commercial Bancgroup, Inc.",1981546,ipo_2025H2,2025-10-02
+S134,TTRX,Turn Therapeutics Inc.,2023016,ipo_2025H2,2025-10-08
+S135,ALH,Alliance Laundry Holdings Inc.,1317685,ipo_2025H2,2025-10-09
+S136,PXED,"Phoenix Education Partners, Inc.",1600222,ipo_2025H2,2025-10-09
+S137,YDDL,One & one Green Technologies. INC,2034723,ipo_2025H2,2025-10-09
+S138,SLGB,Smart Logistics Global Ltd,1987189,ipo_2025H2,2025-10-15
+S139,BGIN,BGIN BLOCKCHAIN Ltd,1945565,ipo_2025H2,2025-10-22
+S140,NPT,Texxon Holding Ltd,2014337,ipo_2025H2,2025-10-22
+S141,NAVN,"Navan, Inc.",1639723,ipo_2025H2,2025-10-31
+S142,BETA,"BETA Technologies, Inc.",1784570,ipo_2025H2,2025-11-04
+S143,XZO,"Exzeo Group, Inc.",1873951,ipo_2025H2,2025-11-05
+S144,EVMN,"Evommune, Inc.",2044725,ipo_2025H2,2025-11-06
+S145,BLLN,"BillionToOne, Inc.",2070849,ipo_2025H2,2025-11-06
+S146,GLOO,"Gloo Holdings, Inc.",2069785,ipo_2025H2,2025-11-19
+S147,CBC,"Central Bancompany, Inc.",2065601,ipo_2025H2,2025-11-21
+S148,PARK,"Park Dental Partners, Inc.",2069604,ipo_2025H2,2025-12-03
+S149,CDNL,Cardinal Infrastructure Group Inc.,2079999,ipo_2025H2,2025-12-10
+S150,WLTH,WEALTHFRONT CORP,1524566,ipo_2025H2,2025-12-12
+S151,LMRI,"Lumexa Imaging Holdings, Inc.",2071288,ipo_2025H2,2025-12-12
+S152,ANDG,Andersen Group Inc.,2065708,ipo_2025H2,2025-12-17
+S153,MDLN,Medline Inc.,2046386,ipo_2025H2,2025-12-18
+S154,MMED,"MiniMed Group, Inc.",2062583,ipo_2026,2026-03-06
+S155,PAYP,PayPay Corp,2080845,ipo_2026,2026-03-12
+S156,SWMR,"Swarmer, Inc",2092574,ipo_2026,2026-03-17
+S157,GMTL,Guardian Metal Resources PLC,2039972,ipo_2026,2026-03-23
+S158,HMH,HMH Holding Inc,2021880,ipo_2026,2026-04-01
+S159,ARXS,"Arxis, Inc.",2093536,ipo_2026,2026-04-16
+S160,KLRA,"Kailera Therapeutics, Inc.",2096997,ipo_2026,2026-04-17
+S161,MAIR,Madison Air Solutions Corp,2098430,ipo_2026,2026-04-17
+S162,ALMR,"Alamar Biosciences, Inc.",2104204,ipo_2026,2026-04-17
+S163,AVEX,AEVEX Corp.,2096300,ipo_2026,2026-04-20
+S164,YSWY,"Yesway, Inc.",1859836,ipo_2026,2026-04-23
+S165,ELMT,Elmet Group Co.,2101698,ipo_2026,2026-04-23
+S166,XE,"X-Energy, Inc.",2088896,ipo_2026,2026-04-27
+S167,AVLN,Avalyn Pharma Inc.,1540171,ipo_2026,2026-04-30
+S168,PS,PERSHING SQUARE INC.,2026053,ipo_2026,2026-04-30
+S169,SBMT,SILVER BOW MINING CORP.,2067674,ipo_2026,2026-04-30
+S170,SPTX,"Seaport Therapeutics, Inc.",2042347,ipo_2026,2026-05-01
+S171,COAG,"Hemab Therapeutics Holdings, Inc.",2114044,ipo_2026,2026-05-01
+S172,HAWK,"HawkEye 360, Inc.",1750704,ipo_2026,2026-05-07
+S173,REA,"Rare Earths Americas, Inc.",2095743,ipo_2026,2026-05-07
+S174,MOBI,"Mobia Medical, Inc.",1489993,ipo_2026,2026-05-08
+S175,ODTX,"Odyssey Therapeutics, Inc.",1882782,ipo_2026,2026-05-08
+S176,SUJA,"SUJA LIFE, INC.",1934114,ipo_2026,2026-05-08
+S177,FRVO,Fervo Energy Co,1853868,ipo_2026,2026-05-14
+S178,GMRS,GMR Solutions Inc.,1898718,ipo_2026,2026-05-14
+S179,CBRS,Cerebras Systems Inc.,2021728,ipo_2026,2026-05-14
+S180,EROK,"EagleRock Land, LLC",2104882,ipo_2026,2026-05-14
+S181,MWC,"Micware Co., Ltd.",2083526,ipo_2026,2026-05-15
+S182,OPTH,Optimi Health Corp.,2027329,ipo_2026,2026-05-20
+S183,LCLN,"Lincoln International, Inc.",1925283,ipo_2026,2026-05-21
+S184,LFTO,"Liftoff Mobile, Inc.",1850351,ipo_2026,2026-06-04
+S185,INIO,INNIO N.V.,2109150,ipo_2026,2026-06-04
+S186,AADX,"Applied Aerospace & Defense, Inc.",2118195,ipo_2026,2026-06-04
+S187,SSMR,Sunshine Silver Mining & Refining Co,2091017,ipo_2026,2026-06-05
+S188,QNT,Quantinuum Inc.,2110105,ipo_2026,2026-06-05
+S189,PBLS,"Parabilis Medicines, Inc.",1657677,ipo_2026,2026-06-10
+S190,EROC,"ERock, Inc.",2110029,ipo_2026,2026-06-10
+S191,FRBT,"Forbright, Inc.",1925062,ipo_2026,2026-06-11
+S192,SPCX,SPACE EXPLORATION TECHNOLOGIES CORP,1181412,ipo_2026,2026-06-12
+S193,FCBM,"First Carolina Financial Services, Inc.",1531193,ipo_2026,2026-06-18
+S194,KARD,"Kardigan, Inc.",2123613,ipo_2026,2026-06-18
+S195,DSC,DSC Holdings Ltd.,1966041,ipo_2026,2026-06-26
+S196,DPC,DPC Holdings PLC,2107018,ipo_2026,2026-06-26
+S197,SIND,Sinda Ltd.,2096861,ipo_2026,2026-06-29

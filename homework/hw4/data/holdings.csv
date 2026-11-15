@@ -1,4 +1,4 @@
-quarter,manager_id,stock_id,value_usd,shares,filed
+quarter_end,manager_id,stock_id,value_usd,shares,filing_date
 2025-03-31,M001,S001,260277441,693352,2025-05-15
 2025-03-31,M001,S002,247666391,1589818,2025-05-15
 2025-03-31,M001,S003,28380009,149164,2025-05-15

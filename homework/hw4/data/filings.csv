@@ -1,4 +1,4 @@
-manager_id,quarter,filed
+manager_id,quarter_end,filing_date
 M001,2025-03-31,2025-05-15
 M002,2025-03-31,2025-05-08
 M003,2025-03-31,2025-05-02
