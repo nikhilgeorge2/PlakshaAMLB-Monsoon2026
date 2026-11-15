@@ -79,7 +79,7 @@ Your two tables are used unchanged. The evaluation uses holdings reported for th
 
 **Test 3, finding new holdings for existing investors.** For each investor, rank the established stocks it did not hold in December 2025; the outcome is whether it held each in June 2026. AUC is computed within four groups of the 100 established stocks formed by December 2025 popularity, measured by the number of investors holding each stock; the score is the mean over groups, then over investors.
 
-Marks: [to be set before release].
+**Marks (100).** The three tests: 60. `design.md`: 20. `answers.md`: 20. The two vector tables come first: a student who does not submit both `stocks.csv` and `managers.csv` is not eligible for the other components, and `design.md` and `answers.md` are not marked.
 
 ## 4. Six questions to answer
 

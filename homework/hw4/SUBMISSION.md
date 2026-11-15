@@ -2,7 +2,7 @@
 
 **Files you have:** `HW4_handout.md` and the four files in `data/`.
 
-- Moodle: `stocks.csv`, `managers.csv`, `design.md` and `answers.md`, with the GitHub link and commit hash in the text box.
+- Moodle: `stocks.csv`, `managers.csv`, `design.md` and `answers.md`, with the GitHub link and commit hash in the text box. Without both tables the other files are not marked.
 - GitHub: `make_vectors.py`, which must reproduce your two tables offline from the supplied files and `external.parquet`, with numerical differences no greater than 1e-5 (fix every random seed), and `external.parquet`, the one extra data file, a parquet file below 100 MB holding whatever you brought in from outside (text, industry codes, model outputs, other features). It is the only data file allowed in the repository besides your two tables; omit it if you bring nothing.
 - `design.md`: at most 800 words on the logic of your design, from data and cutoffs to how listings and investors get their vectors and how you reached 16 dimensions.
 - `answers.md`: your answers to the six questions in `HW4_handout.md`, at most 100 words each.
